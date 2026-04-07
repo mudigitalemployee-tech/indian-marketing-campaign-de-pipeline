@@ -1,0 +1,501 @@
+campaign_id,company,campaign_name,industry,channel,city,state,start_date,end_date,budget_inr,spend_inr,impressions,clicks,conversions,revenue_inr,campaign_manager,status
+IND-CMP-10460,Tata 1mg,Flash Sale,Travel,WhatsApp,Lucknow,Telangana,2025-01-19,2025-02-24,658083.0,610948,98204,3762,703,3434155,Rohit Gupta,Active
+IND-CMP-10816,PhonePe,Independence Day Sale,FinTech,Email,Hyderabad,Haryana,2025-03-22,2025-04-29,350974.0,346977,1929046,217550,3596,12050196,Karthik Iyer,Completed
+IND-CMP-10099,Byju's,Republic Day Offer,EdTech,LinkedIn,Chandigarh,Karnataka,2025-07-25,2025-09-08,59703.0,57033,1562057,57162,5404,10445932,Rahul Sharma,Active
+IND-CMP-10332,MakeMyTrip,Back to School,Healthcare,WhatsApp,Bhopal,Maharashtra,2025-04-27,2025-05-18,1263101.0,1420543,1706314,207107,41232,205252896,Anjali Mehta,Completed
+IND-CMP-10032,Byju's,End of Season Sale,Real Estate,YouTube,Noida,Bihar,2025-01-02,2025-01-12,1460436.0,1255799,1188807,26750,4721,10995209,Amit Verma,Paused
+IND-CMP-10386,Paytm,Back to School,Retail,LinkedIn,Nagpur,Haryana,2025-10-16,2025-11-30,1195763.0,1095324,469475,79383,4836,12191556,Pooja Singh,Completed
+IND-CMP-10828,Swiggy,Independence Day Sale,Healthcare,Email,Kolkata,Gujarat,2025-06-30,2025-07-13,594837.0,664842,1578304,20410,3352,14242648,Sneha Reddy,Active
+IND-CMP-10771,Nykaa,Independence Day Sale,Retail,LinkedIn,Indore,Andhra Pradesh,2025-10-09,2025-10-27,522205.0,539018,693608,133467,12848,36565408,Karthik Iyer,Active
+IND-CMP-10521,Zomato,Back to School,EdTech,Email,Chennai,Delhi,2025-08-03,2025-09-09,438151.0,314746,1757923,93304,5181,20242167,Amit Verma,Active
+IND-CMP-10946,Flipkart,Flash Sale,EdTech,Instagram,Hyderabad,Haryana,2025-09-25,2025-10-27,746667.0,-5000,382317,30364,1873,604979,Rohit Gupta,Completed
+IND-CMP-10364,Nykaa,Diwali Campaign,EdTech,Instagram,Lucknow,West Bengal,2025-07-26,2025-08-05,1300867.0,826782,470009,68746,5540,19921840,Pooja Singh,Active
+IND-CMP-10374,Flipkart,New Launch,E-commerce,YouTube,Chennai,Maharashtra,2025-04-30,2025-05-23,891486.0,705105,1247329,39337,3673,10203594,Rohit Gupta,Paused
+IND-CMP-10736,Meesho,Republic Day Offer,Retail,Facebook Ads,Delhi,Haryana,2025-03-03,2025-03-15,690882.0,772869,871998,144610,13998,59043564,Amit Verma,Completed
+IND-CMP-10912,Swiggy,Diwali Campaign,FinTech,WhatsApp,Chennai,Gujarat,2025-08-04,2025-09-15,491641.0,520889,1508630,82463,13885,62940705,Pooja Singh,Active
+IND-CMP-10074,PhonePe,New Launch,E-commerce,Email,Lucknow,Telangana,2025-04-04,2025-04-18,284645.0,235673,91203,3886,539,2682603,Priya Nair,Paused
+IND-CMP-10022,Flipkart,Festive Sale,E-commerce,Instagram,Hyderabad,Telangana,2025-09-25,2025-10-14,393925.0,441470,429410,82609,4149,11940822,Amit Verma,Completed
+IND-CMP-10940,Byju's,Republic Day Offer,Retail,Email,Lucknow,Telangana,2025-02-06,2025-03-19,966131.0,1071282,1110988,183642,1560,5168280,Vikram Patel,Paused
+IND-CMP-10639,BigBasket,End of Season Sale,Travel,Instagram,Lucknow,Punjab,2025-05-05,2025-05-27,65009.0,46666,883808,161120,3813,14146230,Vikram Patel,Active
+IND-CMP-10615,Meesho,Summer Offer,EdTech,Instagram,Hyderabad,Haryana,2025-08-01,2025-08-18,1294563.0,1148800,993043,20379,2734,10823906,Rohit Gupta,Paused
+IND-CMP-10661,Zomato,End of Season Sale,Retail,Google Ads,Chennai,Karnataka,2025-08-11,2025-09-18,1172981.0,1229990,1352236,43124,177,600561,Karthik Iyer,Active
+IND-CMP-10165,Meesho,Festive Sale,Real Estate,Facebook Ads,Kochi,Gujarat,2025-01-07,2025-02-21,1184552.0,786106,355887,45129,2131,10288468,Sneha Reddy,Completed
+IND-CMP-10244,MakeMyTrip,Republic Day Offer,Healthcare,LinkedIn,Coimbatore,West Bengal,2025-03-29,2025-04-18,501258.0,366035,767741,146063,27049,101136211,Karthik Iyer,Completed
+IND-CMP-10925,PhonePe,Diwali Campaign,Real Estate,YouTube,Bhopal,Uttar Pradesh,2025-02-28,2025-03-13,505002.0,470450,1787568,121230,18901,24155478,Rohit Gupta,Completed
+IND-CMP-10841,Amazon India,Independence Day Sale,EdTech,Facebook Ads,Mumbai,Maharashtra,2025-08-22,2025-10-05,,357193,559878,54331,8217,15415092,Pooja Singh,Active
+IND-CMP-10590,MakeMyTrip,Summer Offer,Retail,LinkedIn,Indore,Tamil Nadu,2025-04-07,2025-04-17,589610.0,566818,1598537,142143,23042,24770150,Rahul Sharma,Completed
+IND-CMP-10320,Zomato,Flash Sale,FinTech,LinkedIn,Kolkata,Kerala,2025-05-20,2025-07-01,115627.0,98138,1106806,127994,25577,117833239,Karthik Iyer,Active
+IND-CMP-10064,Tata 1mg,Back to School,Healthcare,Google Ads,Bhopal,Gujarat,2025-06-11,2025-07-07,532317.0,340496,538864,20342,1713,6655005,Vikram Patel,Completed
+IND-CMP-10692,Ola,New Launch,Real Estate,Google Ads,Lucknow,Tamil Nadu,2025-03-11,2025-03-26,273648.0,286621,1483659,31814,1751,1106632,Priya Nair,Paused
+IND-CMP-10272,Ola,Back to School,Retail,Instagram,Kochi,Uttar Pradesh,2025-05-25,2025-06-01,1260120.0,1009925,1547433,116033,7786,2748458,Neha Kapoor,Completed
+IND-CMP-10360,Amazon India,Republic Day Offer,Real Estate,Facebook Ads,Indore,Uttar Pradesh,2025-03-02,2025-03-09,643176.0,691654,1547203,306286,39595,100056565,Karthik Iyer,Completed
+IND-CMP-10069,Flipkart,Flash Sale,Retail,Email,Indore,Kerala,2025-04-30,2025-05-09,1160923.0,1080886,1578321,113281,1732,5862820,Rohit Gupta,Paused
+IND-CMP-10819,Ola,Republic Day Offer,Retail,Google Ads,Bhopal,Telangana,2025-02-23,2025-03-14,1176119.0,706818,1731014,315597,3296,10379104,Amit Verma,Paused
+IND-CMP-10190,Paytm,Independence Day Sale,EdTech,Google Ads,Nagpur,Andhra Pradesh,2025-06-30,2025-07-08,52178.0,58695,802789,81104,14908,40132336,Vikram Patel,Active
+IND-CMP-10398,BigBasket,Flash Sale,Healthcare,Facebook Ads,Kolkata,Kerala,2025-03-16,2025-04-06,610284.0,552562,822356,139824,1052,1275024,Rahul Sharma,Paused
+IND-CMP-10682,Ola,Summer Offer,Real Estate,LinkedIn,Kolkata,Rajasthan,2025-07-13,2025-07-22,256838.0,161902,1075760,111077,15394,28017080,Sneha Reddy,Active
+IND-CMP-10092,Ola,New Launch,Healthcare,LinkedIn,Chennai,Gujarat,2025-02-04,2025-02-18,129238.0,148331,532044,61447,2271,3535947,Vikram Patel,Active
+IND-CMP-10953,Meesho,Flash Sale,Travel,Email,Delhi,Kerala,2025-09-11,2025-10-25,1493406.0,1526378,660416,23347,4310,3538510,Vikram Patel,Paused
+IND-CMP-10933,Byju's,New Launch,Healthcare,Instagram,Visakhapatnam,Uttar Pradesh,2025-09-13,2025-09-23,305591.0,271291,1580835,37198,473,669295,Rahul Sharma,Paused
+IND-CMP-10080,Byju's,Summer Offer,Real Estate,Email,Visakhapatnam,Gujarat,2025-06-23,2025-07-25,507406.0,311487,40640,4039,459,560439,Rahul Sharma,Paused
+IND-CMP-10159,Uber India,Republic Day Offer,E-commerce,LinkedIn,Noida,Maharashtra,2025-07-17,2025-08-30,452707.0,365223,1727865,314113,42337,148729881,Sneha Reddy,Active
+IND-CMP-10018,Ajio,End of Season Sale,Real Estate,YouTube,Bengaluru ,Kerala,2025-04-25,2025-06-07,738110.0,561208,683960,40873,3115,5152210,Amit Verma,Paused
+IND-CMP-10457,Flipkart,Summer Offer,Healthcare,Instagram,Surat,Uttar Pradesh,2025-08-25,2025-09-10,1493576.0,1412316,1270960,191101,12643,28092746,Pooja Singh,Completed
+IND-CMP-10964,Swiggy,Republic Day Offer,Real Estate,Email,Ahmedabad,Andhra Pradesh,2025-03-04,2025-03-27,165735.0,151896,591429,93568,7466,6308770,Amit Verma,Active
+IND-CMP-10483,Uber India,Diwali Campaign,FinTech,WhatsApp,Chandigarh,Delhi,2025-04-01,2025-04-28,961323.0,837659,1984551,7247,166,758620,Anjali Mehta,Completed
+IND-CMP-10087,PhonePe,New Launch,FinTech,Email,Patna,Maharashtra,2025-02-18,2025-03-16,393077.0,237339,1560971,158825,12841,45816688,Rohit Gupta,Completed
+IND-CMP-10823,Amazon India,Summer Offer,FinTech,Google Ads,Hyderabad,Rajasthan,2025-07-26,2025-09-03,563591.0,405114,271530,34647,3352,9593424,Rohit Gupta,Paused
+IND-CMP-10075,BigBasket,Independence Day Sale,Healthcare,YouTube,Surat,Kerala,2025-02-10,2025-03-22,469884.0,451837,158867,24080,1304,5222520,Karthik Iyer,Paused
+IND-CMP-10522,Meesho,End of Season Sale,EdTech,WhatsApp,Indore,West Bengal,2025-03-10,2025-04-08,525971.0,400506,818166,18412,458,1525140,Sneha Reddy,Paused
+IND-CMP-10861,Byju's,Summer Offer,Travel,YouTube,Chandigarh,Kerala,2025-01-26,2025-02-23,64439.0,67199,198142,1523,144,270288,Rahul Sharma,Paused
+IND-CMP-10827,Nykaa,Back to School,Real Estate,Google Ads,Noida,Gujarat,2025-05-03,2025-06-16,1167172.0,1109854,1700077,191240,10422,38446758,Amit Verma,Active
+IND-CMP-10991,Meesho,End of Season Sale,Retail,Facebook Ads,Delhi,Punjab,2025-04-22,2025-06-01,622308.0,637284,1436033,40712,1646,5830132,Neha Kapoor,Paused
+IND-CMP-10921,Zomato,Independence Day Sale,FinTech,Facebook Ads,Kochi,Gujarat,2025-01-31,2025-02-19,1302297.0,1095029,1047826,20917,1961,9501045,Sneha Reddy,Active
+IND-CMP-10834,Byju's,Republic Day Offer,Retail,Instagram,Coimbatore,Rajasthan,2025-08-26,2025-09-20,599021.0,507441,1091448,172991,9150,36636600,Priya Nair,Active
+IND-CMP-10978,BigBasket,New Launch,E-commerce,Email,Visakhapatnam,Andhra Pradesh,2025-09-11,2025-10-19,842656.0,676726,203283,30924,2953,12145689,Sneha Reddy,Paused
+IND-CMP-10361,Zomato,Independence Day Sale,Retail,YouTube,Bhopal,Haryana,2025-07-03,2025-07-30,849832.0,672316,1158747,95555,4197,17035623,Neha Kapoor,Completed
+IND-CMP-10907,Swiggy,Flash Sale,E-commerce,Email,Ahmedabad,West Bengal,2025-08-25,2025-09-16,894653.0,764513,722776,64848,1511,2786284,Sneha Reddy,Active
+IND-CMP-10729,Amazon India,Back to School,FinTech,Google Ads,Chandigarh,Telangana,2025-08-04,2025-08-14,700385.0,444963,44978,2397,359,429005,Sneha Reddy,Active
+IND-CMP-10618,Byju's,Summer Offer,E-commerce,Instagram,Nagpur,Kerala,2025-08-09,2025-09-21,606045.0,448709,741206,57251,2898,14032116,Vikram Patel,Active
+IND-CMP-10941,MakeMyTrip,Diwali Campaign,FinTech,Instagram,Indore,Maharashtra,2025-06-11,2025-06-20,1313200.0,1452507,488777,1709,192,949824,Priya Nair,Active
+IND-CMP-10916,Tata 1mg,Diwali Campaign,Real Estate,YouTube,Chandigarh,Tamil Nadu,2025-10-11,2025-11-17,758574.0,536454,360997,54281,10611,8520633,Neha Kapoor,Paused
+IND-CMP-10093,Zomato,Diwali Campaign,Retail,Email,Hyderabad,Gujarat,2025-05-24,2025-06-16,825134.0,867863,194034,25849,819,750204,Karthik Iyer,Paused
+IND-CMP-10646,Swiggy,Back to School,E-commerce,Instagram,Ahmedabad,Maharashtra,2025-03-25,2025-04-30,567483.0,472171,1151638,91943,9841,19583590,Rahul Sharma,Paused
+IND-CMP-10436,Flipkart,Festive Sale,Travel,Google Ads,Indore,Gujarat,2025-05-02,2025-05-13,1179317.0,1348679,1677057,327357,61741,228194736,Rohit Gupta,Active
+IND-CMP-10480,Flipkart,Festive Sale,Travel,Facebook Ads,Ahmedabad,Gujarat,2025-09-25,2025-10-31,647609.0,645036,254316,16893,1250,2745000,Anjali Mehta,Paused
+IND-CMP-10116,Paytm,Summer Offer,Healthcare,Email,Bangalore,Kerala,2025-05-28,2025-06-13,299545.0,303609,1026329,105123,11063,31396794,Vikram Patel,Completed
+IND-CMP-10411,Tata 1mg,New Launch,Travel,Instagram,Coimbatore,Delhi,2025-03-15,2025-04-11,220516.0,145506,770751,152206,11711,46199895,Amit Verma,Active
+IND-CMP-10288,PhonePe,Festive Sale,FinTech,Email,Coimbatore,Punjab,2025-07-13,2025-08-16,1296752.0,1479323,1157547,165575,26930,11068230,Vikram Patel,Paused
+IND-CMP-10952,Amazon India,Republic Day Offer,FinTech,YouTube,Ahmedabad,Rajasthan,2025-05-09,2025-06-22,1141401.0,1080316,706928,72047,10840,12997160,Priya Nair,Completed
+IND-CMP-10168,Flipkart,Independence Day Sale,Real Estate,YouTube,Nagpur,Rajasthan,2025-07-15,2025-08-15,1291065.0,1434219,1008173,123613,15858,49413528,Pooja Singh,Paused
+IND-CMP-10783,Ajio,End of Season Sale,E-commerce,Facebook Ads,Kochi,Punjab,2025-07-14,2025-08-10,357639.0,273788,1729791,261122,33459,140092833,Rohit Gupta,Paused
+IND-CMP-10232,Ajio,New Launch,Healthcare,YouTube,Bhopal,Andhra Pradesh,2025-07-03,2025-08-09,1484239.0,942344,558036,52259,3515,6102040,Neha Kapoor,Paused
+IND-CMP-10314,Amazon India,Summer Offer,Retail,WhatsApp,Lucknow,Andhra Pradesh,2025-05-20,2025-05-30,1481967.0,1387610,1897969,276132,28172,17889220,Rahul Sharma,Paused
+IND-CMP-10380,PhonePe,Back to School,Healthcare,Google Ads,Mumbai,Punjab,2025-10-24,2025-10-31,655715.0,409600,283275,4150,690,760380,Rahul Sharma,Completed
+IND-CMP-10742,PhonePe,Summer Offer,Real Estate,Instagram,Ahmedabad,Gujarat,2025-02-10,2025-03-13,487801.0,439981,1833172,107512,4824,11437704,Pooja Singh,Paused
+IND-CMP-10797,Swiggy,Summer Offer,Healthcare,Facebook Ads,Indore,Karnataka,2025-07-03,2025-07-30,1362173.0,831797,392872,18168,2375,7521625,Vikram Patel,Paused
+IND-CMP-10658,Flipkart,Festive Sale,Retail,Email,Bangalore,Telangana,2025-04-25,2025-06-03,201681.0,189684,127658,15548,2826,12304404,Anjali Mehta,Active
+IND-CMP-10779,Byju's,End of Season Sale,Real Estate,Google Ads,Chennai,Karnataka,2025-09-01,2025-09-16,522016.0,337130,14240,2330,163,547028,Amit Verma,Paused
+IND-CMP-10539,Tata 1mg,New Launch,EdTech,WhatsApp,Coimbatore,Punjab,2025-08-30,2025-09-18,1172267.0,1221620,94297,14534,298,408558,Vikram Patel,Completed
+IND-CMP-10388,Uber India,Independence Day Sale,Healthcare,Google Ads,Chennai,Tamil Nadu,2025-09-18,2025-10-05,1085512.0,1203355,1889772,115388,3012,6340260,Neha Kapoor,Active
+IND-CMP-10813,Ajio,Republic Day Offer,Healthcare,LinkedIn,Visakhapatnam,Punjab,2025-03-08,2025-04-13,1151357.0,1226645,1032603,162340,19699,21334017,Pooja Singh,Active
+IND-CMP-10435,Byju's,Festive Sale,Healthcare,YouTube,Kolkata,West Bengal,2025-01-15,2025-02-07,200452.0,217953,641169,84848,7407,10088334,Karthik Iyer,Completed
+IND-CMP-10911,Ola,Diwali Campaign,Travel,YouTube,Patna,Rajasthan,2025-02-10,2025-03-15,1045647.0,757632,181227,22888,4310,19554470,Rohit Gupta,Active
+IND-CMP-10562,Paytm,Flash Sale,Healthcare,Email,,Tamil Nadu,2025-06-08,2025-06-24,,659574,1347184,115062,1293,1122324,Anjali Mehta,Paused
+IND-CMP-10141,Ajio,Festive Sale,Travel,Facebook Ads,Hyderabad,Karnataka,2025-10-10,2025-10-23,785946.0,633394,813410,161868,5452,24790244,Sneha Reddy,Completed
+IND-CMP-10073,Tata 1mg,Republic Day Offer,EdTech,Instagram,Ahmedabad,Bihar,2025-03-04,2025-03-27,1065810.0,1063791,1062626,85114,12475,8670125,Anjali Mehta,Active
+IND-CMP-10447,MakeMyTrip,End of Season Sale,Healthcare,LinkedIn,Delhi,Delhi,2025-03-08,2025-04-10,120166.0,109023,1759484,318933,1021,4154449,Anjali Mehta,Active
+IND-CMP-10883,Nykaa,Diwali Campaign,FinTech,LinkedIn,Kochi,Haryana,2025-02-12,2025-03-27,880216.0,931616,1734758,173684,32914,81890032,Karthik Iyer,Paused
+IND-CMP-10588,Flipkart,Summer Offer,Healthcare,Instagram,Nagpur,Telangana,2025-06-26,2025-07-23,1360657.0,1394524,1436474,247828,41376,44396448,Rohit Gupta,Active
+IND-CMP-10462,BigBasket,Diwali Campaign,Healthcare,Instagram,Delhi,Telangana,2025-09-03,2025-10-09,1229916.0,1068773,1747273,117477,22373,8121399,Amit Verma,Active
+IND-CMP-10100,MakeMyTrip,New Launch,Travel,YouTube,Surat,Madhya Pradesh,2025-03-28,2025-04-19,364951.0,296370,659700,22146,1980,3318480,Priya Nair,Active
+IND-CMP-10242,Ajio,New Launch,FinTech,YouTube,Mumbai,Andhra Pradesh,2025-07-18,2025-08-15,704566.0,637143,598755,50835,6474,17719338,,Active
+IND-CMP-10047,Paytm,Independence Day Sale,Real Estate,YouTube,Chennai,Bihar,2025-06-10,2025-07-05,58186.0,37079,1208169,80685,11252,48597388,Rahul Sharma,Completed
+IND-CMP-10608,Nykaa,Back to School,Travel,WhatsApp,Visakhapatnam,Madhya Pradesh,2025-08-21,2025-09-24,1350824.0,1419003,1103244,176876,7995,12328290,Pooja Singh,Paused
+IND-CMP-10609,Paytm,Back to School,E-commerce,Email,Chennai,Punjab,2025-08-18,2025-09-17,1055933.0,771499,164690,5395,382,1405760,Anjali Mehta,Active
+IND-CMP-10445,Swiggy,Festive Sale,Travel,YouTube,Chandigarh,Delhi,2025-04-05,2025-05-14,353280.0,396401,561578,92094,9064,20747496,Vikram Patel,Completed
+IND-CMP-10653,Tata 1mg,Independence Day Sale,E-commerce,LinkedIn,Indore,Karnataka,2025-03-23,2025-04-09,1101007.0,1160926,522575,47267,2571,6453210,Priya Nair,Completed
+IND-CMP-10416,Zomato,Diwali Campaign,EdTech,Facebook Ads,Hyderabad,Andhra Pradesh,2025-05-03,2025-06-10,1400264.0,1477892,1498485,214094,1455,5520270,Vikram Patel,Completed
+IND-CMP-10304,Ola,Republic Day Offer,Real Estate,YouTube,Coimbatore,Bihar,2025-04-17,2025-04-29,1425457.0,900223,1138959,4121,549,1779858,Karthik Iyer,Paused
+IND-CMP-10454,PhonePe,Flash Sale,FinTech,Facebook Ads,Delhi,Andhra Pradesh,2025-10-15,2025-11-03,582684.0,440941,1601327,119408,15397,75399109,Rahul Sharma,Paused
+IND-CMP-10301,Meesho,New Launch,FinTech,Instagram,Coimbatore,Haryana,2025-05-08,2025-05-17,465311.0,523170,836811,78850,8652,6713952,Priya Nair,Completed
+IND-CMP-10094,Flipkart,Back to School,Real Estate,Instagram,Lucknow,Tamil Nadu,2025-01-29,2025-02-11,975920.0,905785,1766183,17146,2488,5595512,,Completed
+IND-CMP-10804,Flipkart,End of Season Sale,Travel,WhatsApp,Visakhapatnam,Gujarat,2025-01-07,2025-02-14,1177546.0,729288,1238926,208147,3286,9131794,Pooja Singh,Paused
+IND-CMP-10643,Zomato,Festive Sale,FinTech,Instagram,Chennai,Telangana,2025-06-20,2025-08-02,1499549.0,1301721,559224,32865,3245,15361830,Rahul Sharma,Paused
+IND-CMP-10568,Ola,Flash Sale,Travel,YouTube,Indore,Gujarat,2025-10-05,2025-10-26,1379455.0,1532660,1961241,39224,3837,10540239,Rahul Sharma,Completed
+IND-CMP-10664,Flipkart,End of Season Sale,Real Estate,Google Ads,Chandigarh,Delhi,2025-09-11,2025-09-26,417706.0,291068,1397260,85073,9061,41798393,Priya Nair,Completed
+IND-CMP-10971,Byju's,End of Season Sale,Travel,YouTube,Lucknow,Haryana,2025-08-14,2025-09-04,61162.0,40725,1651458,2661,190,333260,Priya Nair,Completed
+IND-CMP-10251,Paytm,End of Season Sale,FinTech,Instagram,Mumbai,Haryana,2025-05-06,2025-06-12,88507.0,87156,1160859,89021,8210,7019550,Vikram Patel,Paused
+IND-CMP-10528,Byju's,Independence Day Sale,Travel,Google Ads,Hyderabad,Punjab,2025-04-03,2025-04-27,51580.0,52546,78060,4037,234,534456,Rohit Gupta,Active
+IND-CMP-10606,Zomato,End of Season Sale,Travel,Instagram,Pune,Bihar,2025-10-15,2025-10-29,80502.0,64535,1607107,263585,13743,49983291,Pooja Singh,Completed
+IND-CMP-10189,Amazon India,Diwali Campaign,Healthcare,WhatsApp,Nagpur,Tamil Nadu,2025-05-03,2025-05-13,858258.0,982448,1790655,28578,1118,5387642,Vikram Patel,Active
+IND-CMP-10444,Uber India,Flash Sale,FinTech,Email,Chennai,Punjab,2025-10-11,2025-11-12,1314942.0,1438736,1738620,168288,15202,63939612,Rahul Sharma,Completed
+IND-CMP-10331,Ola,Republic Day Offer,E-commerce,WhatsApp,Jaipur,Maharashtra,2025-09-26,2025-10-30,559798.0,562518,403141,18678,3307,13793497,Pooja Singh,Active
+IND-CMP-10129,BigBasket,New Launch,EdTech,LinkedIn,Kolkata,Andhra Pradesh,2025-06-16,2025-07-22,592691.0,408778,793326,97080,12535,24530995,Rohit Gupta,Completed
+IND-CMP-10051,Ajio,Independence Day Sale,Retail,WhatsApp,Ahmedabad,Telangana,2025-06-01,2025-06-17,103848.0,93225,415517,40940,7985,30103450,Priya Nair,Completed
+IND-CMP-10519,PhonePe,Summer Offer,Retail,LinkedIn,Kochi,Tamil Nadu,2025-05-01,2025-06-02,469390.0,535310,1890793,290803,17330,84813020,Vikram Patel,Paused
+IND-CMP-10234,Zomato,New Launch,Retail,YouTube,,Gujarat,2025-05-09,2025-06-06,1328352.0,1229969,303876,26544,3104,6018656,Rohit Gupta,Paused
+IND-CMP-10601,Meesho,Back to School,Travel,WhatsApp,Delhi,Andhra Pradesh,2025-09-11,2025-10-18,1286432.0,1472447,1634530,126459,8390,26831220,Amit Verma,Completed
+IND-CMP-10908,Nykaa,Diwali Campaign,Travel,Instagram,Pune,Tamil Nadu,2025-02-18,2025-03-08,173410.0,-5000,120102,14132,499,2194602,Rahul Sharma,Paused
+IND-CMP-10415,Zomato,Back to School,Travel,Email,Surat,Punjab,2025-09-16,2025-09-28,1176742.0,1162549,141737,1563,92,423384,Vikram Patel,Completed
+IND-CMP-10044,Amazon India,Flash Sale,FinTech,Google Ads,Visakhapatnam,Kerala,2025-04-03,2025-05-17,257313.0,278391,1656063,188222,34442,89342548,Priya Nair,Completed
+IND-CMP-10495,Amazon India,Diwali Campaign,Retail,WhatsApp,Pune,Rajasthan,2025-05-16,2025-06-24,910282.0,684128,1310990,180721,2941,2091051,Pooja Singh,Active
+IND-CMP-10485,Swiggy,Back to School,Real Estate,Facebook Ads,Hyderabad,Madhya Pradesh,2025-05-24,2025-06-21,1045816.0,916203,228424,10738,1310,3438750,Anjali Mehta,Paused
+IND-CMP-10548,Flipkart,Independence Day Sale,FinTech,Facebook Ads,Hyderabad,Rajasthan,2025-06-07,2025-07-15,1314891.0,1275996,286437,49010,4169,19519258,Rahul Sharma,Active
+IND-CMP-10958,Zomato,End of Season Sale,EdTech,Email,Ahmedabad,Telangana,2025-09-07,2025-09-27,1398597.0,1241909,672824,76562,9195,9636360,Neha Kapoor,Paused
+IND-CMP-10598,Ola,Republic Day Offer,Real Estate,Instagram,Chandigarh,Madhya Pradesh,2025-07-17,2025-08-22,521786.0,411031,330536,5029,645,2596770,Priya Nair,Paused
+IND-CMP-10368,Ola,Back to School,EdTech,LinkedIn,Lucknow,Karnataka,2025-06-30,2025-07-22,902235.0,1006093,193821,14263,1658,4221268,Sneha Reddy,Paused
+IND-CMP-10693,Amazon India,Back to School,Healthcare,YouTube,Hyderabad,Telangana,2025-03-17,2025-04-09,1141317.0,1170094,283832,22654,3200,10016000,Sneha Reddy,Active
+IND-CMP-10191,PhonePe,Flash Sale,Healthcare,Instagram,Lucknow,Delhi,2025-09-15,2025-10-08,862757.0,734640,1536935,179480,21945,46062555,Anjali Mehta,Active
+IND-CMP-10843,Nykaa,End of Season Sale,EdTech,Email,Jaipur,Gujarat,2025-06-02,2025-06-28,1097161.0,1179220,61120,9917,1534,888186,Rohit Gupta,Completed
+IND-CMP-10427,Amazon India,New Launch,Real Estate,Instagram,Surat,Uttar Pradesh,2025-01-06,2025-02-07,668006.0,-5000,1732922,227971,16132,76691528,Rohit Gupta,Paused
+IND-CMP-10596,Flipkart,Back to School,EdTech,WhatsApp,Indore,Andhra Pradesh,2025-09-30,2025-10-21,187815.0,128325,156379,16454,1198,4825544,Neha Kapoor,Completed
+IND-CMP-10593,Uber India,Flash Sale,E-commerce,Email,Delhi,Rajasthan,2025-02-14,2025-02-24,720640.0,790306,1165954,136691,6342,22209684,Sneha Reddy,Paused
+IND-CMP-10975,BigBasket,New Launch,EdTech,Email,Bhopal,Rajasthan,2025-10-12,2025-11-06,934543.0,1019234,1643870,309849,44159,123159451,Karthik Iyer,Active
+IND-CMP-10928,Swiggy,Flash Sale,E-commerce,WhatsApp,Bhopal,Telangana,2025-06-23,2025-08-03,700005.0,769621,1918629,302202,45933,18740664,Vikram Patel,Paused
+IND-CMP-10243,Amazon India,Diwali Campaign,FinTech,YouTube,Bhopal,Madhya Pradesh,2025-05-17,2025-06-20,927831.0,950746,695270,4336,148,674880,Karthik Iyer,Paused
+IND-CMP-10602,Byju's,Diwali Campaign,Healthcare,Facebook Ads,Lucknow,Kerala,2025-10-09,2025-10-17,212545.0,159733,1900951,59638,6241,16532409,Vikram Patel,Paused
+IND-CMP-10031,Byju's,Republic Day Offer,E-commerce,Facebook Ads,Bangalore,Bihar,2025-04-15,2025-05-10,176122.0,118142,1871539,98330,14072,14451944,Anjali Mehta,Paused
+IND-CMP-10870,Uber India,Festive Sale,Retail,Instagram,Coimbatore,Uttar Pradesh,2025-04-25,2025-05-02,129628.0,117554,1518670,35210,5394,17864928,Sneha Reddy,Paused
+IND-CMP-10089,Ajio,Independence Day Sale,Retail,WhatsApp,Delhi,Delhi,2025-08-28,2025-09-04,215740.0,245468,1162868,112613,11923,50935056,Pooja Singh,Active
+IND-CMP-10832,Amazon India,Republic Day Offer,E-commerce,LinkedIn,Hyderabad,Karnataka,2025-04-18,2025-04-26,1007163.0,899999,689919,131474,25108,30732192,Vikram Patel,Active
+IND-CMP-10351,Uber India,Festive Sale,Healthcare,Google Ads,Visakhapatnam,Bihar,2025-04-21,2025-05-13,117892.0,96000,1236878,72632,5580,1992060,Amit Verma,Paused
+IND-CMP-10910,MakeMyTrip,End of Season Sale,FinTech,Instagram,Bhopal,Karnataka,2025-01-04,2025-01-25,1191074.0,1096040,1154953,1584,148,53132,Anjali Mehta,Completed
+IND-CMP-10705,Zomato,Republic Day Offer,FinTech,LinkedIn,Bangalore,Kerala,2025-04-07,2025-05-20,165664.0,117976,1488297,189745,5279,12986340,Pooja Singh,Active
+IND-CMP-10210,Tata 1mg,Flash Sale,EdTech,Email,Ahmedabad,Punjab,2025-02-24,2025-03-14,98641.0,90111,988725,112881,8441,7706633,Vikram Patel,Active
+IND-CMP-10268,BigBasket,Flash Sale,Travel,WhatsApp,Lucknow,West Bengal,2025-04-09,2025-05-12,514808.0,378870,1582840,225330,1541,992404,Vikram Patel,Completed
+IND-CMP-10112,Ajio,Republic Day Offer,Healthcare,WhatsApp,Bhopal,Punjab,2025-09-28,2025-11-02,847092.0,807541,1412979,253373,39065,61566440,Amit Verma,Active
+IND-CMP-10581,Uber India,Summer Offer,E-commerce,YouTube,Surat,Rajasthan,2025-09-09,2025-10-05,257389.0,265145,1097384,33040,3139,9511170,Sneha Reddy,Active
+IND-CMP-10121,BigBasket,Summer Offer,Real Estate,WhatsApp,Ahmedabad,West Bengal,2025-02-18,2025-03-29,1274163.0,818989,28539,3522,226,443412,Pooja Singh,Paused
+IND-CMP-10685,Ajio,Independence Day Sale,Healthcare,Google Ads,Coimbatore,Madhya Pradesh,2025-07-15,2025-07-23,271653.0,260777,1851278,195513,12188,36490872,Sneha Reddy,Active
+IND-CMP-10140,Amazon India,End of Season Sale,Healthcare,Email,Surat,Punjab,2025-04-06,2025-04-24,981359.0,776603,1934415,36404,2186,1488666,Amit Verma,Completed
+IND-CMP-10336,Flipkart,New Launch,EdTech,Instagram,Lucknow,Rajasthan,2025-07-30,2025-08-27,887635.0,830157,149558,13082,1480,1821880,Rohit Gupta,Active
+IND-CMP-10993,Meesho,Independence Day Sale,EdTech,Email,Jaipur,Uttar Pradesh,2025-10-05,2025-10-14,319116.0,194059,858277,161087,27926,110754516,Anjali Mehta,Active
+IND-CMP-10060,PhonePe,Diwali Campaign,EdTech,Email,Kolkata,Bihar,2025-09-25,2025-10-05,300071.0,272416,1308818,34628,867,1384599,Neha Kapoor,Active
+IND-CMP-10263,Swiggy,Festive Sale,Travel,Email,Hyderabad,Maharashtra,2025-06-15,2025-07-29,1375725.0,1126488,549925,53651,1999,6530733,Neha Kapoor,Completed
+IND-CMP-10286,PhonePe,Summer Offer,Real Estate,Instagram,Patna,Maharashtra,2025-09-05,2025-10-12,516758.0,393824,673888,68286,12618,58774644,Sneha Reddy,Active
+IND-CMP-10715,PhonePe,Festive Sale,FinTech,Facebook Ads,Bhopal,Haryana,2025-06-08,2025-06-22,432273.0,445182,931186,130671,19635,14294280,Anjali Mehta,Paused
+IND-CMP-10207,MakeMyTrip,End of Season Sale,E-commerce,Facebook Ads,Chandigarh,Karnataka,2025-03-02,2025-04-01,1496779.0,923862,1041990,138106,2416,5356272,Rohit Gupta,Active
+IND-CMP-10042,Paytm,Back to School,Real Estate,WhatsApp,Ahmedabad,Andhra Pradesh,2025-10-15,2025-11-16,442270.0,432727,1471214,120098,13902,7576590,Priya Nair,Completed
+IND-CMP-10977,Swiggy,Back to School,Retail,Email,Nagpur,Andhra Pradesh,2025-02-03,2025-03-08,858489.0,844437,673067,125521,19152,79614864,Priya Nair,Active
+IND-CMP-10104,Nykaa,Flash Sale,EdTech,LinkedIn,Chandigarh,Andhra Pradesh,2025-01-02,2025-01-19,280215.0,248422,39094,4642,336,123648,Vikram Patel,Paused
+IND-CMP-10683,Ajio,Republic Day Offer,Retail,Email,Kochi,Rajasthan,2025-08-20,2025-09-14,344799.0,232420,131834,10608,1061,3490690,Vikram Patel,Active
+IND-CMP-10237,Swiggy,New Launch,Travel,Google Ads,Indore,West Bengal,2025-08-01,2025-08-11,1439891.0,1386498,1574955,122913,21631,90374318,Rahul Sharma,Active
+IND-CMP-10305,MakeMyTrip,New Launch,Retail,WhatsApp,Bhopal,Haryana,2025-10-20,2025-11-28,1320249.0,916847,1666170,288398,54195,139226955,Priya Nair,Active
+IND-CMP-10999,Meesho,New Launch,Real Estate,WhatsApp,Lucknow,Andhra Pradesh,2025-05-26,2025-06-14,546525.0,485635,1590739,183129,20122,49319022,Vikram Patel,Active
+IND-CMP-10102,Zomato,Back to School,Healthcare,LinkedIn,Patna,Karnataka,2025-10-19,2025-10-31,402880.0,344131,1697880,290530,10876,45798836,Rahul Sharma,Active
+IND-CMP-10393,BigBasket,New Launch,EdTech,Google Ads,Hyderabad,West Bengal,2025-07-24,2025-08-21,1301625.0,818101,1950382,308655,9462,21696366,Neha Kapoor,Paused
+IND-CMP-10203,Flipkart,New Launch,FinTech,Instagram,Surat,Telangana,2025-10-03,2025-10-27,1267322.0,1273475,1129453,90868,3096,981432,Rahul Sharma,Completed
+IND-CMP-10758,Tata 1mg,Flash Sale,Real Estate,Google Ads,Lucknow,Delhi,2025-07-11,2025-07-19,1415039.0,1010815,1718742,226538,33998,82819128,Priya Nair,Completed
+IND-CMP-10319,Swiggy,Summer Offer,FinTech,Email,Ahmedabad,Tamil Nadu,2025-03-10,2025-03-29,1143647.0,1208055,1407050,67964,8624,19145280,Anjali Mehta,Paused
+IND-CMP-10520,Amazon India,Republic Day Offer,EdTech,LinkedIn,Kolkata,Delhi,2025-04-06,2025-04-16,852689.0,590645,1862705,349854,38595,34079385,Amit Verma,Completed
+IND-CMP-10655,PhonePe,Summer Offer,EdTech,YouTube,Noida,Madhya Pradesh,2025-06-10,2025-07-10,956665.0,851645,760600,145501,10476,48451500,Amit Verma,Paused
+IND-CMP-10857,Flipkart,Festive Sale,EdTech,Google Ads,,Madhya Pradesh,2025-01-27,2025-03-05,753304.0,456399,242413,42264,8091,36757413,Neha Kapoor,Completed
+IND-CMP-10011,Tata 1mg,Back to School,Real Estate,Email,,Karnataka,2025-07-26,2025-08-31,1000532.0,603555,1124431,199723,16982,80885266,Pooja Singh,Active
+IND-CMP-10848,Tata 1mg,Republic Day Offer,Travel,Google Ads,Indore,Punjab,2025-09-27,2025-10-27,798831.0,866568,66337,13115,1896,8774688,Neha Kapoor,Paused
+IND-CMP-10211,BigBasket,Back to School,Retail,WhatsApp,Nagpur,Gujarat,2025-01-03,2025-02-15,306043.0,319431,247646,46895,5010,19599120,Sneha Reddy,Completed
+IND-CMP-10851,Amazon India,Back to School,Retail,WhatsApp,Chennai,Punjab,2025-09-03,2025-09-24,614476.0,555227,1717394,170994,15711,30809271,Karthik Iyer,Active
+IND-CMP-10125,Uber India,Republic Day Offer,EdTech,YouTube,Jaipur,Andhra Pradesh,2025-05-28,2025-06-18,1472623.0,924933,790501,30743,5730,21854220,,Paused
+IND-CMP-10560,Amazon India,New Launch,FinTech,Google Ads,Ahmedabad,Kerala,2025-07-09,2025-08-21,267911.0,272152,1064896,133197,11425,19536750,Amit Verma,Paused
+IND-CMP-10494,Paytm,Diwali Campaign,Healthcare,Google Ads,Mumbai,Bihar,2025-04-22,2025-05-13,472838.0,394150,884364,21432,1150,1689350,Rahul Sharma,Paused
+IND-CMP-10083,Paytm,Independence Day Sale,EdTech,Facebook Ads,Hyderabad,Karnataka,2025-04-01,2025-04-16,1427858.0,1479237,221090,3180,86,109392,Amit Verma,Completed
+IND-CMP-10743,Flipkart,End of Season Sale,Retail,WhatsApp,Nagpur,Telangana,2025-05-12,2025-06-08,458220.0,389748,1012550,193999,2017,9554529,Sneha Reddy,Completed
+IND-CMP-10025,Paytm,Flash Sale,EdTech,Google Ads,Noida,Delhi,2025-08-04,2025-08-21,725298.0,601913,1514006,26691,1990,1520360,Vikram Patel,Active
+IND-CMP-10677,MakeMyTrip,Republic Day Offer,Retail,LinkedIn,Surat,Haryana,2025-04-10,2025-05-10,454788.0,447148,636112,27916,2068,8296816,Priya Nair,Paused
+IND-CMP-10724,BigBasket,New Launch,FinTech,LinkedIn,Patna,Maharashtra,2025-09-08,2025-09-20,1063545.0,920293,1080929,27237,2244,10344840,Rahul Sharma,Active
+IND-CMP-10800,Flipkart,Flash Sale,Healthcare,LinkedIn,Pune,Delhi,2025-10-11,2025-11-07,1499286.0,1004065,723920,49400,6936,32196912,Vikram Patel,Active
+IND-CMP-10375,Ola,Flash Sale,Retail,YouTube,Pune,Punjab,2025-01-24,2025-02-02,848137.0,632311,1117830,109324,8595,18530820,Karthik Iyer,Paused
+IND-CMP-10403,Uber India,Back to School,Retail,Google Ads,Kolkata,Delhi,2025-03-15,2025-04-20,1493904.0,1464285,961462,153979,12985,8803830,Pooja Singh,Active
+IND-CMP-10357,Zomato,Flash Sale,FinTech,YouTube,Bhopal,Rajasthan,2025-07-28,2025-08-11,,614561,609970,63230,10778,42325206,Karthik Iyer,Completed
+IND-CMP-10774,Byju's,Diwali Campaign,Healthcare,Email,Patna,Kerala,2025-02-02,2025-02-26,518173.0,587032,1877350,200129,10832,15695568,Anjali Mehta,Completed
+IND-CMP-10205,Tata 1mg,Diwali Campaign,Healthcare,YouTube,Mumbai,Kerala,2025-04-23,2025-05-22,,332634,367124,34952,6780,16814400,Vikram Patel,Completed
+IND-CMP-10148,Meesho,Independence Day Sale,E-commerce,LinkedIn,Hyderabad,Maharashtra,2025-07-15,2025-07-22,1164569.0,1210520,1440212,268211,954,1683810,Amit Verma,Active
+IND-CMP-10397,Uber India,Summer Offer,E-commerce,YouTube,Chennai,Punjab,2025-06-07,2025-06-17,1250869.0,1095592,1149070,78301,8851,6027531,Vikram Patel,Completed
+IND-CMP-10325,Ola,New Launch,Real Estate,LinkedIn,Indore,Madhya Pradesh,2025-10-06,2025-10-31,1290740.0,948270,608903,22775,1228,1904628,Rohit Gupta,Completed
+IND-CMP-10662,Zomato,Back to School,FinTech,YouTube,Patna,Uttar Pradesh,2025-05-28,2025-07-12,518581.0,496947,1368960,262588,22887,28517202,Pooja Singh,Paused
+IND-CMP-10790,Ajio,End of Season Sale,FinTech,Email,Nagpur,Madhya Pradesh,2025-09-25,2025-10-06,317599.0,357093,566110,36050,5188,24777888,Amit Verma,Completed
+IND-CMP-10163,PhonePe,Republic Day Offer,Healthcare,LinkedIn,Nagpur,Telangana,2025-08-19,2025-09-13,445048.0,467862,535550,104703,862,2272232,Karthik Iyer,Active
+IND-CMP-10767,Nykaa,Festive Sale,Travel,Email,Bhopal,Kerala,2025-04-01,2025-05-01,479759.0,393689,761581,126052,12452,46595384,Vikram Patel,Completed
+IND-CMP-10676,Tata 1mg,Summer Offer,Real Estate,Facebook Ads,Jaipur,Rajasthan,2025-02-11,2025-03-27,1431960.0,862282,684268,69553,10607,24544598,Rohit Gupta,Active
+IND-CMP-10535,Flipkart,Independence Day Sale,Travel,LinkedIn,Lucknow,Rajasthan,2025-10-01,2025-11-04,271838.0,300626,1369836,198764,23340,29151660,Pooja Singh,Active
+IND-CMP-10835,Tata 1mg,Republic Day Offer,Healthcare,Google Ads,Jaipur,Telangana,2025-04-05,2025-05-11,1349544.0,1281189,1596367,121132,989,1316359,Rohit Gupta,Paused
+IND-CMP-10644,Flipkart,Summer Offer,FinTech,WhatsApp,Bhopal,West Bengal,2025-07-02,2025-08-11,1094552.0,1176218,1856373,292435,22708,42963536,Rahul Sharma,Completed
+IND-CMP-10897,Flipkart,Flash Sale,FinTech,Google Ads,Nagpur,Madhya Pradesh,2025-08-07,2025-09-03,730820.0,726201,1686294,7629,650,873600,Karthik Iyer,Paused
+IND-CMP-10903,Ola,End of Season Sale,Healthcare,YouTube,Surat,Maharashtra,2025-02-26,2025-03-22,1442757.0,1077467,1012497,44852,6749,21360585,Neha Kapoor,Completed
+IND-CMP-10086,PhonePe,Festive Sale,EdTech,Facebook Ads,Kolkata,Kerala,2025-02-24,2025-03-16,237165.0,247356,1096844,155918,29865,28252290,Vikram Patel,Completed
+IND-CMP-10012,Tata 1mg,Republic Day Offer,E-commerce,Email,Kochi,Madhya Pradesh,2025-07-22,2025-08-23,1166019.0,764596,1060253,161276,6624,8359488,Karthik Iyer,Active
+IND-CMP-10316,MakeMyTrip,New Launch,Healthcare,LinkedIn,Kolkata,Punjab,2025-04-13,2025-05-18,1293370.0,916974,1246075,223671,5961,12655203,Pooja Singh,Active
+IND-CMP-10714,Flipkart,Flash Sale,Travel,LinkedIn,Ahmedabad,Bihar,2025-10-01,2025-10-28,497998.0,326933,1215068,78267,13887,43952355,Vikram Patel,Active
+IND-CMP-10811,Tata 1mg,Independence Day Sale,Real Estate,Email,Mumbai,Delhi,2025-04-14,2025-05-07,339324.0,336454,635764,107240,18245,82704585,Pooja Singh,Completed
+IND-CMP-10354,PhonePe,Flash Sale,Real Estate,Instagram,Hyderabad,Telangana,2025-01-02,2025-01-11,1405795.0,1471747,1790345,5607,81,359883,Sneha Reddy,Paused
+IND-CMP-10849,Tata 1mg,Diwali Campaign,E-commerce,Facebook Ads,Bangalore,Telangana,2025-01-22,2025-02-05,1490758.0,1102539,1479847,8082,723,3359781,Neha Kapoor,Active
+IND-CMP-10730,Ola,Festive Sale,Healthcare,Google Ads,Chennai,Madhya Pradesh,2025-10-01,2025-10-08,173565.0,157334,431403,57692,11121,15780699,Vikram Patel,Completed
+IND-CMP-10501,Ajio,Independence Day Sale,Retail,Instagram,Bangalore,Karnataka,2025-05-17,2025-06-14,65574.0,44912,1624196,90317,5658,27413010,Rahul Sharma,Paused
+IND-CMP-10891,MakeMyTrip,Festive Sale,FinTech,Instagram,Ahmedabad,Uttar Pradesh,2025-06-18,2025-07-21,,75819,1200030,81490,478,1177792,Rohit Gupta,Paused
+IND-CMP-10569,Nykaa,Diwali Campaign,Real Estate,Email,Bhopal,Tamil Nadu,2025-03-22,2025-04-28,564503.0,382218,718459,40273,583,1301839,Rohit Gupta,Paused
+IND-CMP-10173,Flipkart,Back to School,Real Estate,Email,Hyderabad,Haryana,2025-07-28,2025-08-28,744635.0,463257,1348066,176106,17156,83824216,Amit Verma,Completed
+IND-CMP-10309,Flipkart,Summer Offer,EdTech,Email,Kolkata,Delhi,2025-06-14,2025-07-29,535135.0,565380,1186176,34421,523,921003,Karthik Iyer,Completed
+IND-CMP-10169,Amazon India,New Launch,Healthcare,Google Ads,Pune,Rajasthan,2025-01-31,2025-03-03,1105409.0,941547,801962,20684,4054,2914826,Sneha Reddy,Paused
+IND-CMP-10943,Ajio,Diwali Campaign,EdTech,Facebook Ads,Visakhapatnam,Maharashtra,2025-02-04,2025-03-05,137812.0,131568,485475,55021,4509,13125699,Karthik Iyer,Active
+IND-CMP-10966,Nykaa,Festive Sale,E-commerce,YouTube,Kolkata,West Bengal,2025-04-10,2025-04-26,1175685.0,1159231,1071514,58653,3486,9743370,Pooja Singh,Paused
+IND-CMP-10518,Nykaa,Flash Sale,Travel,Email,Ahmedabad,Tamil Nadu,2025-02-14,2025-03-21,592831.0,612659,849016,49673,4434,4234470,Vikram Patel,Active
+IND-CMP-10652,Nykaa,Diwali Campaign,FinTech,Instagram,Visakhapatnam,Maharashtra,2025-09-18,2025-09-30,1478804.0,1275598,546019,59989,944,2796128,Amit Verma,Completed
+IND-CMP-10407,MakeMyTrip,Festive Sale,Retail,Google Ads,Coimbatore,Kerala,2025-02-15,2025-03-26,231178.0,-5000,1034470,23479,2537,3092603,Rohit Gupta,Active
+IND-CMP-10825,PhonePe,End of Season Sale,Real Estate,Instagram,Hyderabad,Haryana,2025-10-03,2025-10-27,1233469.0,923466,1135902,98084,12921,31217136,Priya Nair,Active
+IND-CMP-10134,PhonePe,Festive Sale,Retail,LinkedIn,Visakhapatnam,Uttar Pradesh,2025-07-05,2025-08-12,826019.0,713859,696920,45794,5298,9451632,Sneha Reddy,Active
+IND-CMP-10788,Zomato,Flash Sale,Retail,YouTube,Bhopal,West Bengal,2025-07-05,2025-07-19,438291.0,284035,515451,3641,307,200164,Neha Kapoor,Paused
+IND-CMP-10160,BigBasket,Flash Sale,Retail,Facebook Ads,Surat,West Bengal,2025-03-08,2025-04-19,1084515.0,1041313,1356103,241715,33641,140451175,Karthik Iyer,Active
+IND-CMP-10010,MakeMyTrip,Summer Offer,Real Estate,Instagram,Hyderabad,Telangana,2025-07-16,2025-08-16,1028349.0,848924,937408,77876,2000,9316000,Sneha Reddy,Completed
+IND-CMP-10814,Nykaa,Summer Offer,Retail,Instagram,Chennai,Uttar Pradesh,2025-09-03,2025-10-02,766831.0,759165,67335,9430,147,88200,Amit Verma,Active
+IND-CMP-10219,BigBasket,Back to School,E-commerce,Facebook Ads,Chennai,Telangana,2025-09-04,2025-09-22,420656.0,384767,897664,122609,493,510255,Neha Kapoor,Paused
+IND-CMP-10216,PhonePe,Diwali Campaign,Real Estate,Google Ads,Bangalore,Rajasthan,2025-03-18,2025-04-23,638688.0,687590,42093,7581,1383,1483959,,Paused
+IND-CMP-10536,Tata 1mg,Diwali Campaign,Travel,Email,Ahmedabad,Maharashtra,2025-07-18,2025-08-24,1392524.0,1485879,1744017,330294,12411,37828728,Anjali Mehta,Active
+IND-CMP-10699,Paytm,Back to School,Retail,Facebook Ads,Bhopal,Rajasthan,2025-08-31,2025-09-10,455010.0,287256,1036916,43636,151,201132,Pooja Singh,Completed
+IND-CMP-10753,Tata 1mg,Summer Offer,Retail,Instagram,Noida,Maharashtra,2025-04-17,2025-05-19,231648.0,188041,933597,59536,5475,18965400,Karthik Iyer,Paused
+IND-CMP-10298,Amazon India,Republic Day Offer,EdTech,Email,Chandigarh,Karnataka,2025-05-13,2025-06-03,488109.0,309124,563706,105254,9838,5322358,Anjali Mehta,Paused
+IND-CMP-10059,Meesho,End of Season Sale,Retail,Instagram,Jaipur,Tamil Nadu,2025-06-02,2025-07-16,1302322.0,916035,1445588,10807,78,56784,Karthik Iyer,Active
+IND-CMP-10220,Amazon India,Summer Offer,Real Estate,Instagram,Chandigarh,Maharashtra,2025-06-26,2025-07-31,1169135.0,1236247,1038694,81066,13321,17077522,Karthik Iyer,Completed
+IND-CMP-10561,Tata 1mg,Summer Offer,E-commerce,LinkedIn,Mumbai,Maharashtra,2025-03-18,2025-03-28,1451017.0,1119509,1189314,235479,18791,33203697,Rohit Gupta,Paused
+IND-CMP-10333,Flipkart,New Launch,Retail,Google Ads,Pune,Maharashtra,2025-09-04,2025-09-19,1037979.0,977662,1020718,139624,23467,22293650,Rahul Sharma,Paused
+IND-CMP-10822,Amazon India,End of Season Sale,Real Estate,Instagram,Bangalore,Maharashtra,2025-06-27,2025-08-01,553288.0,594583,438415,2925,55,185735,Priya Nair,Paused
+IND-CMP-10469,Meesho,Republic Day Offer,FinTech,Facebook Ads,Pune,West Bengal,2025-07-06,2025-08-04,709046.0,625034,448382,46624,2262,970398,Pooja Singh,Completed
+IND-CMP-10101,Uber India,Flash Sale,E-commerce,Facebook Ads,Lucknow,Kerala,2025-03-31,2025-04-09,401054.0,402078,1693939,17836,1340,4704740,Amit Verma,Paused
+IND-CMP-10900,Amazon India,Back to School,Healthcare,Email,Visakhapatnam,Karnataka,2025-02-09,2025-03-18,345074.0,245742,1734751,105113,15901,7982302,Karthik Iyer,Completed
+IND-CMP-10196,Meesho,New Launch,E-commerce,WhatsApp,Kochi,Maharashtra,2025-10-06,2025-11-19,201341.0,223698,1566153,25800,2167,6199787,Rahul Sharma,Completed
+IND-CMP-10381,Byju's,New Launch,FinTech,Facebook Ads,Coimbatore,Andhra Pradesh,2025-07-07,2025-08-12,1242198.0,1305845,147287,27353,1648,4492448,Sneha Reddy,Completed
+IND-CMP-10808,Tata 1mg,Flash Sale,Retail,WhatsApp,Bengaluru ,Tamil Nadu,2025-02-07,2025-02-18,1272947.0,1073071,1661599,203582,2063,5398871,Rohit Gupta,Active
+IND-CMP-10687,MakeMyTrip,New Launch,E-commerce,facebook ads,Jaipur,Madhya Pradesh,2025-07-25,2025-08-29,568906.0,614927,992144,57445,7238,2308922,Vikram Patel,Completed
+IND-CMP-10212,Nykaa,Summer Offer,Travel,Email,Nagpur,Uttar Pradesh,2025-08-01,2025-08-13,709612.0,519996,1610827,78739,6124,23577400,Priya Nair,Active
+IND-CMP-10628,Byju's,Republic Day Offer,Travel,Email,Noida,Maharashtra,2025-06-20,2025-06-27,926670.0,808770,1081459,182534,25148,101120108,Neha Kapoor,Paused
+IND-CMP-10261,Ola,Back to School,Travel,Email,Delhi,Haryana,2025-01-01,2025-01-26,1007827.0,788708,740675,134590,10205,24920610,Rohit Gupta,Paused
+IND-CMP-10113,Zomato,Flash Sale,FinTech,WhatsApp,Lucknow,Uttar Pradesh,2025-05-10,2025-06-10,1072385.0,1143162,1230328,227916,43986,109393182,Priya Nair,Paused
+IND-CMP-10899,Flipkart,Republic Day Offer,Healthcare,YouTube,Jaipur,Gujarat,2025-03-17,2025-04-18,1442551.0,1394235,1038899,205608,41046,180930768,Pooja Singh,Active
+IND-CMP-10546,Paytm,Flash Sale,E-commerce,Email,Kochi,Bihar,2025-04-19,2025-05-22,146735.0,99835,473301,5428,456,870504,Sneha Reddy,Paused
+IND-CMP-10592,Ola,Festive Sale,FinTech,Facebook Ads,Bangalore,Uttar Pradesh,2025-03-13,2025-04-24,1211965.0,977339,1006369,27497,4874,21669804,Pooja Singh,Completed
+IND-CMP-10802,Swiggy,Festive Sale,FinTech,Google Ads,Hyderabad,Madhya Pradesh,2025-05-08,2025-05-21,1295664.0,791222,827099,16592,1382,5084378,,Completed
+IND-CMP-10451,Swiggy,Flash Sale,E-commerce,Instagram,Ahmedabad,Maharashtra,2025-03-19,2025-04-15,508363.0,449482,939697,136222,854,1686650,Karthik Iyer,Completed
+IND-CMP-10969,Paytm,New Launch,Healthcare,Facebook Ads,Bengaluru ,Andhra Pradesh,2025-08-14,2025-09-23,1246939.0,1084696,1972958,94211,16042,74563216,Rohit Gupta,Active
+IND-CMP-10775,Flipkart,Independence Day Sale,EdTech,Instagram,Bhopal,Haryana,2025-01-25,2025-03-01,420692.0,298843,306832,58815,11223,48797604,Amit Verma,Paused
+IND-CMP-10718,Swiggy,Back to School,FinTech,Google Ads,Lucknow,Gujarat,2025-04-30,2025-05-25,73553.0,69641,1434669,270397,34008,51284064,Amit Verma,Paused
+IND-CMP-10358,Meesho,Festive Sale,Healthcare,LinkedIn,Delhi,Bihar,2025-01-10,2025-02-05,363827.0,243860,949474,167899,4226,3249794,Anjali Mehta,Completed
+IND-CMP-10968,Flipkart,Festive Sale,Retail,YouTube,Chandigarh,Tamil Nadu,2025-04-21,2025-06-05,945357.0,712042,1690408,165991,31993,59730931,Anjali Mehta,Completed
+IND-CMP-10854,Flipkart,New Launch,Real Estate,Instagram,Pune,Punjab,2025-03-10,2025-04-22,482417.0,381176,1267911,218227,7616,26861632,Neha Kapoor,Completed
+IND-CMP-10725,Swiggy,New Launch,E-commerce,Google Ads,Chennai,Delhi,2025-08-07,2025-09-21,1180738.0,1112840,422856,39787,4931,1577920,Anjali Mehta,Paused
+IND-CMP-10229,BigBasket,Independence Day Sale,Healthcare,LinkedIn,Surat,Andhra Pradesh,2025-05-21,2025-06-26,302477.0,259862,295278,2738,489,1280202,Vikram Patel,Active
+IND-CMP-10043,Byju's,Flash Sale,Healthcare,WhatsApp,Bhopal,Karnataka,2025-02-07,2025-03-22,1181318.0,1271756,1290181,91160,9222,37109328,Priya Nair,Completed
+IND-CMP-10567,MakeMyTrip,New Launch,Healthcare,WhatsApp,Visakhapatnam,Rajasthan,2025-07-09,2025-08-13,812263.0,792774,870056,149769,8391,3289272,Pooja Singh,Completed
+IND-CMP-10153,PhonePe,Festive Sale,Travel,Instagram,Bangalore,Delhi,2025-06-24,2025-07-30,1291314.0,1344840,158149,2549,81,227610,Pooja Singh,Completed
+IND-CMP-10476,Nykaa,Flash Sale,Real Estate,Facebook Ads,Noida,Kerala,2025-02-07,2025-03-16,136292.0,103702,1809301,64813,3431,7187945,Sneha Reddy,Completed
+IND-CMP-10759,Nykaa,Flash Sale,E-commerce,Instagram,Lucknow,West Bengal,2025-10-01,2025-11-06,1384312.0,1061274,499202,62104,10942,51919790,Rohit Gupta,Active
+IND-CMP-10737,MakeMyTrip,Republic Day Offer,FinTech,Facebook Ads,Mumbai,Rajasthan,2025-08-14,2025-09-05,138489.0,102913,623077,85488,9405,42407145,Neha Kapoor,Completed
+IND-CMP-10613,Flipkart,Festive Sale,EdTech,Facebook Ads,Bengaluru ,Telangana,2025-06-13,2025-07-07,1194937.0,926433,1627132,223274,35900,117213500,Pooja Singh,Paused
+IND-CMP-10408,Ajio,Diwali Campaign,Real Estate,Email,Bhopal,Tamil Nadu,2025-02-22,2025-04-05,71556.0,45940,1218831,102518,2434,2713910,,Paused
+IND-CMP-10246,Amazon India,New Launch,Healthcare,Facebook Ads,Pune,Rajasthan,2025-05-02,2025-06-03,1438079.0,965942,1050155,89436,635,600710,Pooja Singh,Active
+IND-CMP-10202,BigBasket,Republic Day Offer,Real Estate,Instagram,Hyderabad,Gujarat,2025-08-16,2025-09-03,1192304.0,762020,764691,105917,4285,16407265,Neha Kapoor,Active
+IND-CMP-10533,Nykaa,Festive Sale,FinTech,WhatsApp,Surat,Andhra Pradesh,2025-06-20,2025-07-28,705462.0,484722,1796666,56092,633,1126107,Karthik Iyer,Active
+IND-CMP-10481,Zomato,Independence Day Sale,EdTech,WhatsApp,Kochi,West Bengal,2025-05-16,2025-06-21,434126.0,422680,1700884,9083,246,738492,Anjali Mehta,Paused
+IND-CMP-10732,Uber India,Festive Sale,FinTech,YouTube,Mumbai,Madhya Pradesh,2025-10-17,2025-11-02,655446.0,440814,1458285,249209,5909,10281660,Amit Verma,Paused
+IND-CMP-10459,BigBasket,Flash Sale,Retail,YouTube,Indore,Punjab,2025-10-18,2025-11-28,1322362.0,900596,1925570,17241,3050,9467200,Rahul Sharma,Paused
+IND-CMP-10979,Tata 1mg,New Launch,Real Estate,Facebook Ads,Indore,Bihar,2025-07-05,2025-07-26,1423110.0,874918,1865781,334842,35893,144900041,Sneha Reddy,Completed
+IND-CMP-10391,Swiggy,Independence Day Sale,Healthcare,Email,Bhopal,Kerala,2025-01-16,2025-02-28,399297.0,244565,901907,5272,189,266868,Sneha Reddy,Paused
+IND-CMP-10766,Paytm,Festive Sale,Retail,YouTube,Jaipur,Bihar,2025-08-24,2025-09-08,564587.0,647037,592582,46850,3136,9291968,Rohit Gupta,Paused
+IND-CMP-10438,Byju's,New Launch,E-commerce,LinkedIn,Nagpur,Telangana,2025-08-01,2025-09-08,865963.0,722910,741366,96683,16138,51899808,Amit Verma,Paused
+IND-CMP-10455,Zomato,End of Season Sale,Real Estate,LinkedIn,Lucknow,Madhya Pradesh,2025-03-06,2025-03-16,1065685.0,792184,690046,127142,10282,32768734,Neha Kapoor,Active
+IND-CMP-10276,MakeMyTrip,Flash Sale,Real Estate,Instagram,Kolkata,Delhi,2025-04-21,2025-05-09,1261789.0,915083,1511635,270966,47482,153509306,Pooja Singh,Completed
+IND-CMP-10426,PhonePe,Festive Sale,EdTech,Email,Ahmedabad,Punjab,2025-07-12,2025-08-15,881296.0,952080,1968469,346178,8652,33950448,,Paused
+IND-CMP-10675,Uber India,End of Season Sale,Travel,Google Ads,Indore,Madhya Pradesh,2025-02-16,2025-03-13,791563.0,905529,711015,84258,2434,7299566,Anjali Mehta,Completed
+IND-CMP-10321,Zomato,New Launch,Real Estate,Instagram,Noida,Kerala,2025-04-04,2025-05-01,156941.0,167631,1345822,261614,48006,231292908,Karthik Iyer,Active
+IND-CMP-10867,Meesho,Republic Day Offer,Retail,Google Ads,Kochi,Rajasthan,2025-06-19,2025-06-29,1008585.0,1065430,1890238,294142,11023,45965910,Sneha Reddy,Paused
+IND-CMP-10130,Ajio,Flash Sale,FinTech,YouTube,Visakhapatnam,Rajasthan,2025-03-07,2025-04-20,857755.0,769794,1840655,103105,2039,1553718,Neha Kapoor,Active
+IND-CMP-10805,Zomato,Independence Day Sale,Travel,Google Ads,Jaipur,Bihar,2025-06-07,2025-06-14,827113.0,896377,1734981,275866,50773,223553519,Rohit Gupta,Completed
+IND-CMP-10128,Swiggy,End of Season Sale,EdTech,LinkedIn,Indore,Uttar Pradesh,2025-06-27,2025-07-16,356331.0,219934,1802543,297029,37773,163670409,Vikram Patel,Completed
+IND-CMP-10794,MakeMyTrip,New Launch,FinTech,YouTube,Delhi,Punjab,2025-05-06,2025-06-14,611809.0,658954,545084,57998,6130,3818990,Rahul Sharma,Paused
+IND-CMP-10139,Ajio,Independence Day Sale,Retail,Instagram,Visakhapatnam,Madhya Pradesh,2025-04-15,2025-05-19,407672.0,301397,916287,92137,2663,8742629,Priya Nair,Active
+IND-CMP-10096,Paytm,Festive Sale,Real Estate,Instagram,Chandigarh,Uttar Pradesh,2025-08-23,2025-09-20,938619.0,742864,1570133,279462,4468,10106616,Pooja Singh,Completed
+IND-CMP-10302,Ola,Back to School,Real Estate,Google Ads,Ahmedabad,Uttar Pradesh,2025-04-07,2025-05-13,574264.0,486250,313009,29207,3215,8159670,Rahul Sharma,Active
+IND-CMP-10674,Swiggy,Independence Day Sale,E-commerce,YouTube,Lucknow,Rajasthan,2025-05-17,2025-06-27,594390.0,606949,574957,22191,2052,4563648,Priya Nair,Completed
+IND-CMP-10144,Swiggy,Republic Day Offer,E-commerce,WhatsApp,Chandigarh,Rajasthan,2025-05-12,2025-05-25,1214044.0,855799,527403,75407,13335,58327290,Rahul Sharma,Active
+IND-CMP-10656,Uber India,Diwali Campaign,FinTech,YouTube,Ahmedabad,Madhya Pradesh,2025-09-06,2025-10-17,751580.0,543828,902565,152390,24063,77699427,Amit Verma,Paused
+IND-CMP-10987,MakeMyTrip,Diwali Campaign,Retail,Google Ads,Kolkata,Punjab,2025-01-08,2025-01-25,1014757.0,656199,701378,43622,4028,17924600,Neha Kapoor,Paused
+IND-CMP-10610,Swiggy,Diwali Campaign,Travel,Instagram,Hyderabad,Andhra Pradesh,2025-09-20,2025-10-25,1468690.0,993621,446793,70723,10099,37053231,Amit Verma,Paused
+IND-CMP-10734,Nykaa,Diwali Campaign,EdTech,Instagram,Patna,Rajasthan,2025-06-20,2025-06-29,283373.0,267873,622645,42840,6985,33234630,Priya Nair,Completed
+IND-CMP-10056,Paytm,End of Season Sale,FinTech,YouTube,Lucknow,Rajasthan,2025-10-08,2025-11-16,375404.0,300761,1244383,161859,9293,44708623,Neha Kapoor,Completed
+IND-CMP-10103,Amazon India,Back to School,Healthcare,Email,Visakhapatnam,Bihar,2025-10-02,2025-11-02,873657.0,827519,1145722,220557,24027,60115554,Amit Verma,Paused
+IND-CMP-10673,Ola,Festive Sale,Travel,LinkedIn,Indore,Maharashtra,2025-07-12,2025-07-28,1214177.0,934153,1769165,165245,12862,9427846,Amit Verma,Paused
+IND-CMP-10387,Meesho,Back to School,Healthcare,Email,Chandigarh,Haryana,2025-07-25,2025-08-01,1467750.0,1325576,1394373,17847,3392,7591296,Karthik Iyer,Completed
+IND-CMP-10829,Amazon India,Back to School,E-commerce,YouTube,Delhi,Haryana,2025-10-07,2025-11-07,1334219.0,969214,1855948,153513,20968,43592472,Amit Verma,Completed
+IND-CMP-10405,Byju's,Back to School,Retail,YouTube,Ahmedabad,Haryana,2025-03-03,2025-03-22,164311.0,145744,427835,47497,2023,5846470,Neha Kapoor,Active
+IND-CMP-10842,Flipkart,Summer Offer,FinTech,Instagram,Kochi,Haryana,2025-07-26,2025-08-31,875321.0,953578,1543353,3972,620,2183640,Vikram Patel,Completed
+IND-CMP-10323,PhonePe,Republic Day Offer,Retail,Facebook Ads,Kolkata,Gujarat,2025-08-20,2025-09-04,1189201.0,1093337,125304,21633,4162,8024336,Anjali Mehta,Active
+IND-CMP-10547,Tata 1mg,End of Season Sale,Healthcare,Email,Coimbatore,Rajasthan,2025-05-08,2025-05-21,961422.0,761499,1248468,122804,22302,41972364,Pooja Singh,Paused
+IND-CMP-10574,Nykaa,New Launch,Healthcare,Instagram,Kolkata,Karnataka,2025-05-05,2025-06-10,523691.0,440011,1937231,23075,4565,6715115,Pooja Singh,Paused
+IND-CMP-10299,Swiggy,Flash Sale,Travel,LinkedIn,Nagpur,Haryana,2025-09-23,2025-10-08,1431412.0,1551926,1610718,119709,6061,19425505,Amit Verma,Active
+IND-CMP-10338,Paytm,Republic Day Offer,Real Estate,LinkedIn,Lucknow,Tamil Nadu,2025-02-15,2025-03-04,950811.0,894348,875378,128484,1572,4201956,Vikram Patel,Active
+IND-CMP-10412,MakeMyTrip,Republic Day Offer,EdTech,LinkedIn,Bhopal,Karnataka,2025-08-20,2025-09-12,669989.0,447400,165529,11802,542,2145778,Rohit Gupta,Completed
+IND-CMP-10392,Zomato,Independence Day Sale,Healthcare,WhatsApp,Lucknow,Gujarat,2025-02-21,2025-03-23,535231.0,355404,1040347,173169,12949,37668641,Priya Nair,Active
+IND-CMP-10448,Ajio,Flash Sale,FinTech,Email,Coimbatore,Gujarat,2025-03-26,2025-04-09,1251938.0,1000881,1630262,50193,4350,3371250,Neha Kapoor,Completed
+IND-CMP-10627,PhonePe,Republic Day Offer,Retail,Google Ads,Visakhapatnam,Telangana,2025-06-24,2025-08-08,1352055.0,1187423,1624312,232215,27353,92617258,Vikram Patel,Active
+IND-CMP-10344,BigBasket,Independence Day Sale,Retail,Instagram,Indore,Uttar Pradesh,2025-05-13,2025-06-15,73075.0,45169,1773785,298837,39423,44981643,Neha Kapoor,Paused
+IND-CMP-10450,MakeMyTrip,Republic Day Offer,Retail,WhatsApp,Noida,Madhya Pradesh,2025-05-06,2025-06-18,1025575.0,747378,1013070,11634,2126,8893058,Rohit Gupta,Active
+IND-CMP-10478,Paytm,End of Season Sale,Healthcare,WhatsApp,Lucknow,Telangana,2025-02-08,2025-03-24,861757.0,522605,1690794,217730,8767,8179611,Pooja Singh,Active
+IND-CMP-10065,Byju's,Flash Sale,Travel,Google Ads,Noida,Haryana,2025-02-09,2025-03-25,902414.0,544371,977035,131690,25062,109170072,Vikram Patel,Active
+IND-CMP-10534,Ajio,Independence Day Sale,EdTech,Facebook Ads,Ahmedabad,Uttar Pradesh,2025-09-07,2025-10-08,123312.0,128246,855778,141494,1583,5591156,Priya Nair,Paused
+IND-CMP-10335,Ola,Diwali Campaign,Healthcare,Email,Chennai,Rajasthan,2025-02-27,2025-03-10,613937.0,666264,1087451,47377,6728,24294808,Vikram Patel,Completed
+IND-CMP-10824,Amazon India,Summer Offer,Travel,YouTube,Noida,Rajasthan,2025-05-11,2025-05-28,,1375304,1077430,203938,17112,52088928,Rohit Gupta,Active
+IND-CMP-10913,PhonePe,Flash Sale,FinTech,Email,Chennai,Bihar,2025-04-29,2025-05-16,1482037.0,1289660,1650067,18604,746,682590,,Completed
+IND-CMP-10876,Paytm,Diwali Campaign,E-commerce,Facebook Ads,Bangalore,West Bengal,2025-08-08,2025-08-20,497973.0,515930,398160,43288,3038,13163654,Amit Verma,Active
+IND-CMP-10085,Uber India,Festive Sale,Healthcare,Google Ads,Ahmedabad,Karnataka,2025-03-18,2025-04-12,170250.0,179458,175386,17977,2896,11042448,Pooja Singh,Paused
+IND-CMP-10799,Nykaa,Republic Day Offer,Travel,Instagram,Delhi,Karnataka,2025-07-08,2025-08-21,382555.0,299137,1456499,237959,20343,6591132,Sneha Reddy,Active
+IND-CMP-10582,Flipkart,Back to School,Retail,YouTube,Visakhapatnam,Rajasthan,2025-04-29,2025-05-11,444109.0,336624,1964157,262720,17838,60791904,Rahul Sharma,Active
+IND-CMP-10199,Byju's,Festive Sale,Real Estate,Instagram,Bhopal,Bihar,2025-03-25,2025-04-12,919126.0,1039690,1129332,205280,34693,15611850,Amit Verma,Completed
+IND-CMP-10648,Ola,Republic Day Offer,Travel,Google Ads,Patna,Haryana,2025-02-19,2025-03-09,452957.0,347506,1331592,179491,516,2000532,Sneha Reddy,Active
+IND-CMP-10773,Swiggy,Back to School,Real Estate,WhatsApp,,Maharashtra,2025-09-13,2025-10-21,147882.0,138951,1777840,185674,4442,6076656,Vikram Patel,Completed
+IND-CMP-10595,Ola,Diwali Campaign,Retail,WhatsApp,Ahmedabad,Delhi,2025-10-24,2025-11-03,897225.0,594946,216434,4379,186,110484,Pooja Singh,Paused
+IND-CMP-10275,BigBasket,Summer Offer,EdTech,LinkedIn,Pune,Uttar Pradesh,2025-05-04,2025-06-08,881089.0,864656,1112614,74044,9513,40392198,Rohit Gupta,Active
+IND-CMP-10152,Meesho,New Launch,EdTech,Instagram,Chandigarh,Maharashtra,2025-10-22,2025-12-04,139993.0,85805,528729,72288,1022,4298532,Pooja Singh,Paused
+IND-CMP-10401,Ola,Diwali Campaign,E-commerce,Instagram,Lucknow,Maharashtra,2025-08-11,2025-08-27,114584.0,86979,1239034,84382,9551,19980692,Vikram Patel,Active
+IND-CMP-10532,Byju's,Independence Day Sale,EdTech,LinkedIn,Kolkata,Kerala,2025-08-28,2025-09-29,750463.0,790527,1859109,186351,34896,86576976,Amit Verma,Paused
+IND-CMP-10414,Flipkart,New Launch,Real Estate,Email,Bangalore,Haryana,2025-02-25,2025-03-18,418091.0,309525,639398,106856,5484,15333264,Amit Verma,Completed
+IND-CMP-10442,Zomato,New Launch,EdTech,LinkedIn,Surat,Tamil Nadu,2025-07-20,2025-08-29,336304.0,349571,1438454,223503,8742,26208516,Pooja Singh,Active
+IND-CMP-10896,Flipkart,New Launch,EdTech,Instagram,Surat,Gujarat,2025-06-10,2025-07-11,245202.0,219489,468911,33163,5470,25090890,Anjali Mehta,Active
+IND-CMP-10635,Ajio,Republic Day Offer,E-commerce,LinkedIn,Nagpur,Punjab,2025-02-15,2025-02-22,285014.0,230953,626191,105945,6632,2858392,Anjali Mehta,Paused
+IND-CMP-10961,Meesho,New Launch,Retail,WhatsApp,Nagpur,Telangana,2025-07-16,2025-08-02,918820.0,825478,1264457,148029,29516,137869236,Rohit Gupta,Paused
+IND-CMP-10690,Meesho,Diwali Campaign,Travel,Google Ads,Patna,Telangana,2025-06-01,2025-07-01,775630.0,752640,1283408,14143,1610,3395490,Priya Nair,Active
+IND-CMP-10787,Uber India,New Launch,FinTech,Instagram,Noida,Bihar,2025-07-03,2025-08-16,768368.0,586046,1092635,176439,29054,67550550,Pooja Singh,Paused
+IND-CMP-10348,MakeMyTrip,Summer Offer,E-commerce,Google Ads,Noida,Telangana,2025-02-19,2025-03-01,567361.0,502999,1489651,76545,7591,20913205,Vikram Patel,Paused
+IND-CMP-10307,BigBasket,Back to School,FinTech,Instagram,Noida,Bihar,2025-03-13,2025-04-01,1324333.0,1297458,397612,60600,4035,4914630,Rohit Gupta,Active
+IND-CMP-10352,Nykaa,Festive Sale,Retail,WhatsApp,Pune,Haryana,2025-08-15,2025-09-24,1403797.0,1134042,242646,16406,2943,8040276,Amit Verma,Active
+IND-CMP-10468,Ajio,Independence Day Sale,Healthcare,Instagram,Nagpur,Delhi,2025-09-16,2025-10-15,742390.0,445561,1177187,19993,449,414427,Neha Kapoor,Completed
+IND-CMP-10061,Nykaa,Diwali Campaign,Healthcare,YouTube,Chandigarh,Haryana,2025-01-27,2025-03-02,639182.0,587833,165043,24050,209,958683,Vikram Patel,Paused
+IND-CMP-10150,Meesho,Back to School,EdTech,Instagram,Lucknow,Uttar Pradesh,2025-01-13,2025-02-25,620705.0,709912,461790,72309,5443,14151800,Neha Kapoor,Active
+IND-CMP-10050,Meesho,New Launch,FinTech,LinkedIn,Chennai,Maharashtra,2025-09-05,2025-10-06,1447841.0,963040,1133263,12261,876,2745384,Anjali Mehta,Completed
+IND-CMP-10706,Flipkart,Back to School,Healthcare,Google Ads,,Kerala,2025-09-10,2025-09-21,1112131.0,1135719,1022932,179001,11944,34267336,Pooja Singh,Completed
+IND-CMP-10762,Paytm,Independence Day Sale,Retail,WhatsApp,Bangalore,Bihar,2025-03-17,2025-04-04,388170.0,366931,1478423,181619,28883,64322441,Amit Verma,Completed
+IND-CMP-10989,Ajio,Independence Day Sale,E-commerce,WhatsApp,Delhi,West Bengal,2025-02-09,2025-03-20,1205851.0,1031789,426447,82821,10664,12615512,Priya Nair,Completed
+IND-CMP-10860,PhonePe,Diwali Campaign,Real Estate,YouTube,Indore,Tamil Nadu,2025-07-12,2025-07-23,779364.0,531660,1748163,161963,7267,4607278,Neha Kapoor,Active
+IND-CMP-10812,Nykaa,Summer Offer,E-commerce,Facebook Ads,Kochi,Andhra Pradesh,2025-10-28,2025-12-05,1036656.0,660966,1998488,183176,25403,119343294,,Active
+IND-CMP-10378,Byju's,End of Season Sale,FinTech,YouTube,Visakhapatnam,Telangana,2025-04-21,2025-05-03,1147230.0,771213,1872006,104877,8392,29959440,Sneha Reddy,Paused
+IND-CMP-10349,PhonePe,Festive Sale,E-commerce,LinkedIn,Bangalore,Haryana,2025-07-01,2025-07-23,549272.0,345242,288325,30787,4238,1856244,Priya Nair,Completed
+IND-CMP-10204,Uber India,End of Season Sale,Real Estate,Email,Patna,Bihar,2025-03-28,2025-04-09,542429.0,548291,1339611,203704,19815,94220325,Rohit Gupta,Completed
+IND-CMP-10187,Ola,Summer Offer,FinTech,WhatsApp,Surat,Andhra Pradesh,2025-10-02,2025-10-21,188050.0,164008,1810513,198240,30022,81689862,Anjali Mehta,Completed
+IND-CMP-10704,Uber India,Back to School,E-commerce,Facebook Ads,Kolkata,Telangana,2025-10-09,2025-11-06,869058.0,817473,932394,68155,9172,32762384,Karthik Iyer,Active
+IND-CMP-10862,Flipkart,End of Season Sale,Real Estate,Google Ads,Kochi,Delhi,2025-06-04,2025-07-11,1253797.0,1420191,1305995,7894,1343,4144498,Anjali Mehta,Active
+IND-CMP-10537,Meesho,New Launch,Retail,Instagram,Bhopal,Andhra Pradesh,2025-01-30,2025-03-03,1228548.0,1043118,476463,18162,476,2061080,Priya Nair,Paused
+IND-CMP-10067,Paytm,Republic Day Offer,Travel,Google Ads,Visakhapatnam,Delhi,2025-06-27,2025-07-16,938576.0,762494,1591355,199674,10952,9988224,Rohit Gupta,Active
+IND-CMP-10175,Ajio,End of Season Sale,Retail,WhatsApp,Coimbatore,Karnataka,2025-03-05,2025-03-18,1177628.0,995625,364867,12201,1597,3257880,Karthik Iyer,Paused
+IND-CMP-10222,Ajio,End of Season Sale,FinTech,Instagram,Hyderabad,West Bengal,2025-09-10,2025-10-06,1201074.0,1320607,1233198,185960,28567,73331489,Karthik Iyer,Completed
+IND-CMP-10601,Meesho,Back to School,Travel,WhatsApp,Delhi,Andhra Pradesh,2025-09-11,2025-10-18,1286432.0,1472447,1634530,126459,8390,26831220,Amit Verma,Completed
+IND-CMP-10327,Byju's,Flash Sale,FinTech,Instagram,Chandigarh,Punjab,2025-04-27,2025-05-13,920571.0,813562,1205120,187741,24699,12300102,Pooja Singh,Paused
+IND-CMP-10858,Nykaa,Summer Offer,EdTech,YouTube,Pune,Delhi,2025-06-29,2025-07-21,1426495.0,1020725,565137,11064,792,830016,Anjali Mehta,Completed
+IND-CMP-10514,Swiggy,Summer Offer,Real Estate,Facebook Ads,Kolkata,Tamil Nadu,2025-01-04,2025-02-11,1405029.0,1115909,1161167,201117,18860,23405260,Amit Verma,Completed
+IND-CMP-10955,Swiggy,Back to School,FinTech,Email,Indore,West Bengal,2025-04-02,2025-05-17,1410779.0,1179060,516982,85077,3744,16986528,Sneha Reddy,Paused
+IND-CMP-10924,Ola,New Launch,Real Estate,YouTube,Lucknow,West Bengal,2025-05-16,2025-05-24,332663.0,307766,349809,46243,8603,15201501,Pooja Singh,Active
+IND-CMP-10871,Ajio,Back to School,FinTech,YouTube,Surat,Maharashtra,2025-06-28,2025-08-05,1158463.0,1257431,1943877,170637,29591,26365581,Amit Verma,Paused
+IND-CMP-10081,Amazon India,Diwali Campaign,Retail,Instagram,Chennai,Telangana,2025-10-01,2025-11-05,838751.0,625948,67825,6412,364,408408,Neha Kapoor,Active
+IND-CMP-10796,BigBasket,Summer Offer,FinTech,Instagram,Kolkata,Madhya Pradesh,2025-02-28,2025-03-16,216947.0,230017,600267,23897,1102,5243316,Neha Kapoor,Active
+IND-CMP-10986,Uber India,Festive Sale,Travel,Instagram,Visakhapatnam,Madhya Pradesh,2025-04-30,2025-05-15,491996.0,523193,1614434,1487,206,301172,Neha Kapoor,Completed
+IND-CMP-10754,Tata 1mg,Diwali Campaign,Travel,Email,Delhi,Gujarat,2025-04-06,2025-04-30,676556.0,613126,360895,29756,1241,1989323,Rahul Sharma,Paused
+IND-CMP-10188,Swiggy,Republic Day Offer,FinTech,LinkedIn,Coimbatore,Uttar Pradesh,2025-03-27,2025-05-09,821515.0,778633,803350,42396,6531,4976622,Anjali Mehta,Paused
+IND-CMP-10437,Zomato,Diwali Campaign,FinTech,Facebook Ads,Kolkata,Rajasthan,2025-04-03,2025-04-14,1252841.0,1294945,23238,264,52,217100,Karthik Iyer,Completed
+IND-CMP-10631,Byju's,End of Season Sale,Real Estate,Email,Mumbai,Gujarat,2025-07-03,2025-08-05,875226.0,881940,1774212,346031,6151,21399329,Pooja Singh,Completed
+IND-CMP-10755,Ola,Independence Day Sale,FinTech,Instagram,Noida,Maharashtra,2025-04-25,2025-05-25,1308707.0,1273375,107515,20782,93,37479,Vikram Patel,Paused
+IND-CMP-10777,Flipkart,End of Season Sale,E-commerce,YouTube,Jaipur,Madhya Pradesh,2025-06-23,2025-08-01,1473058.0,1247640,735721,119096,18982,82799484,Amit Verma,Active
+IND-CMP-10241,Ola,New Launch,E-commerce,Google Ads,Hyderabad,Delhi,2025-10-23,2025-11-01,1324830.0,1510873,1707562,239201,27677,134150419,Pooja Singh,Completed
+IND-CMP-10084,Ajio,Summer Offer,Retail,WhatsApp,Bhopal,Karnataka,2025-10-18,2025-10-29,1377853.0,1560942,1993324,2899,493,2059261,Rohit Gupta,Active
+IND-CMP-10906,Tata 1mg,New Launch,Travel,Email,Surat,Andhra Pradesh,2025-04-02,2025-05-09,865022.0,882222,233374,6472,1013,569306,Amit Verma,Completed
+IND-CMP-10950,Flipkart,Diwali Campaign,FinTech,LinkedIn,Mumbai,Delhi,2025-09-28,2025-11-07,748993.0,605771,1307596,59542,11470,23467620,Rohit Gupta,Completed
+IND-CMP-10542,Meesho,End of Season Sale,EdTech,WhatsApp,Ahmedabad,Kerala,2025-04-17,2025-05-09,920343.0,684506,234210,36407,706,3080278,,Paused
+IND-CMP-10245,Uber India,Republic Day Offer,FinTech,Google Ads,Jaipur,Gujarat,2025-05-22,2025-06-03,1189905.0,868284,116230,16891,1331,5823125,Rohit Gupta,Completed
+IND-CMP-10576,Uber India,Flash Sale,EdTech,LinkedIn,Delhi,Telangana,2025-02-19,2025-03-15,1285730.0,1435003,1114401,158846,26257,15859228,Karthik Iyer,Active
+IND-CMP-10070,Uber India,Festive Sale,Travel,Instagram,Bengaluru ,Madhya Pradesh,2025-03-29,2025-05-03,612729.0,572604,1117388,107752,2323,6076968,Neha Kapoor,Completed
+IND-CMP-10708,Nykaa,Flash Sale,Retail,LinkedIn,Visakhapatnam,West Bengal,2025-08-07,2025-09-02,1192521.0,944895,799252,135121,18678,9264288,Vikram Patel,Active
+IND-CMP-10277,Ola,Festive Sale,EdTech,Instagram,Coimbatore,Bihar,2025-05-08,2025-06-18,1051075.0,1029488,1072941,197895,30835,72092230,Anjali Mehta,Paused
+IND-CMP-10990,Swiggy,New Launch,Real Estate,Instagram,Pune,Punjab,2025-10-22,2025-12-02,1347544.0,1284312,178710,28519,4855,17725605,Amit Verma,Completed
+IND-CMP-10629,Ajio,Summer Offer,Real Estate,Facebook Ads,Surat,Andhra Pradesh,2025-02-17,2025-03-29,440759.0,469394,1186104,637,120,331440,Neha Kapoor,Paused
+IND-CMP-10830,Meesho,Diwali Campaign,Travel,Google Ads,Jaipur,Haryana,2025-07-10,2025-08-07,1216132.0,1043342,1284720,30399,4182,11228670,Sneha Reddy,Completed
+IND-CMP-10433,PhonePe,New Launch,EdTech,LinkedIn,Jaipur,Rajasthan,2025-06-08,2025-06-27,783815.0,733667,523600,32617,6402,4334154,Karthik Iyer,Active
+IND-CMP-10887,BigBasket,Flash Sale,Healthcare,Facebook Ads,Jaipur,Kerala,2025-07-27,2025-08-30,1451686.0,1189260,1962712,76286,10690,51932020,Rahul Sharma,Active
+IND-CMP-10516,Flipkart,Flash Sale,Retail,facebook ads,Mumbai,West Bengal,2025-06-24,2025-07-25,201560.0,138587,1060378,185962,2132,2068040,Karthik Iyer,Paused
+IND-CMP-10458,MakeMyTrip,Festive Sale,Real Estate,Google Ads,Chennai,Madhya Pradesh,2025-07-25,2025-08-08,595734.0,515824,1200550,56071,4256,2702560,Amit Verma,Active
+IND-CMP-10636,BigBasket,New Launch,Real Estate,LinkedIn,Kochi,Madhya Pradesh,2025-10-17,2025-11-06,793476.0,790851,271896,40740,3003,7942935,Anjali Mehta,Completed
+IND-CMP-10227,Paytm,New Launch,Travel,Google Ads,Indore,Bihar,2025-08-01,2025-08-29,200857.0,222156,302620,11900,2359,6329197,Neha Kapoor,Completed
+IND-CMP-10106,BigBasket,Festive Sale,EdTech,Google Ads,,Andhra Pradesh,2025-04-16,2025-05-09,1249436.0,1254487,699511,55982,1055,4670485,Rohit Gupta,Active
+IND-CMP-10886,Flipkart,Back to School,EdTech,LinkedIn,Bhopal,Delhi,2025-01-13,2025-02-15,838181.0,659135,1673078,167941,12858,13128018,,Active
+IND-CMP-10728,Nykaa,End of Season Sale,FinTech,Facebook Ads,Noida,West Bengal,2025-01-15,2025-02-19,738454.0,781661,1986113,363585,12184,28668952,Rahul Sharma,Active
+IND-CMP-10097,Uber India,Diwali Campaign,Healthcare,Email,Bhopal,Gujarat,2025-10-01,2025-10-17,510154.0,565694,447089,11941,2167,7103426,Rahul Sharma,Active
+IND-CMP-10254,PhonePe,Republic Day Offer,Retail,Instagram,Lucknow,Andhra Pradesh,2025-03-27,2025-04-14,1429470.0,1299336,843383,47091,374,1083478,Vikram Patel,Paused
+IND-CMP-10713,Ajio,Back to School,Real Estate,YouTube,Coimbatore,Haryana,2025-09-22,2025-10-01,474515.0,382434,1607427,171718,19336,30357520,Neha Kapoor,Completed
+IND-CMP-10934,Ola,Back to School,Real Estate,LinkedIn,Kochi,West Bengal,2025-04-25,2025-06-01,95549.0,61388,1835560,5895,33,82896,Neha Kapoor,Completed
+IND-CMP-10346,PhonePe,New Launch,EdTech,WhatsApp,Pune,Maharashtra,2025-08-28,2025-10-07,385395.0,324527,53658,9868,169,568685,Vikram Patel,Paused
+IND-CMP-10033,Swiggy,Back to School,Healthcare,WhatsApp,Indore,Delhi,2025-10-24,2025-11-29,1372419.0,1085820,431431,38046,3282,13541532,Pooja Singh,Active
+IND-CMP-10005,Uber India,New Launch,E-commerce,LinkedIn,Visakhapatnam,Andhra Pradesh,2025-04-09,2025-05-04,338021.0,286993,1191910,144583,16044,30772392,Vikram Patel,Paused
+IND-CMP-10233,Tata 1mg,Summer Offer,FinTech,Facebook Ads,Mumbai,Kerala,2025-03-12,2025-04-16,175072.0,132243,1411602,244762,41825,51444750,Anjali Mehta,Paused
+IND-CMP-10679,Ola,End of Season Sale,Travel,YouTube,Noida,West Bengal,2025-07-27,2025-09-09,191439.0,214549,1316429,199667,21717,23519511,Karthik Iyer,Paused
+IND-CMP-10640,Swiggy,End of Season Sale,FinTech,Email,Kochi,Delhi,2025-05-28,2025-06-08,329155.0,323387,338344,28415,3629,7969284,Sneha Reddy,Completed
+IND-CMP-10580,MakeMyTrip,Back to School,Travel,YouTube,Hyderabad,Bihar,2025-07-14,2025-08-13,149456.0,110955,1575890,94118,7910,23421510,Rahul Sharma,Completed
+IND-CMP-10904,PhonePe,Festive Sale,Travel,YouTube,Nagpur,Kerala,2025-08-08,2025-08-24,667764.0,497087,1194963,94635,1413,902907,Priya Nair,Paused
+IND-CMP-10395,Ola,Festive Sale,Travel,LinkedIn,Lucknow,Bihar,2025-09-21,2025-10-17,1375823.0,1400725,397986,54721,8517,29034453,Amit Verma,Paused
+IND-CMP-10306,BigBasket,Summer Offer,E-commerce,Instagram,Hyderabad,Gujarat,2025-08-31,2025-10-09,342006.0,261282,1659278,218948,3730,6117200,Sneha Reddy,Active
+IND-CMP-10367,Byju's,Independence Day Sale,Retail,Google Ads,Chandigarh,Delhi,2025-08-10,2025-09-05,790233.0,741595,1710560,134545,26125,71660875,Karthik Iyer,Active
+IND-CMP-10452,Byju's,Diwali Campaign,Retail,LinkedIn,Delhi,Karnataka,2025-08-30,2025-10-14,899400.0,885175,131468,17532,2195,10511855,Neha Kapoor,Active
+IND-CMP-10337,Paytm,Diwali Campaign,FinTech,Instagram,Indore,Bihar,2025-03-24,2025-04-27,623087.0,616896,675874,91353,13305,48190710,Neha Kapoor,Active
+IND-CMP-10200,MakeMyTrip,Diwali Campaign,Travel,YouTube,Surat,Uttar Pradesh,2025-07-31,2025-08-29,50851.0,45092,473549,84792,12902,36099796,Sneha Reddy,Active
+IND-CMP-10183,Ajio,Festive Sale,EdTech,LinkedIn,Coimbatore,Bihar,2025-05-13,2025-05-25,1140546.0,834911,962086,118826,14713,40504889,Neha Kapoor,Active
+IND-CMP-10253,Swiggy,End of Season Sale,Travel,YouTube,Kochi,Kerala,2025-08-15,2025-09-06,843281.0,808532,358329,45243,6995,6386435,Priya Nair,Paused
+IND-CMP-10498,BigBasket,Independence Day Sale,EdTech,LinkedIn,Patna,Gujarat,2025-06-22,2025-07-10,1425615.0,1289464,359859,19266,2023,7434525,Priya Nair,Paused
+IND-CMP-10178,MakeMyTrip,Independence Day Sale,E-commerce,Facebook Ads,Nagpur,Punjab,2025-04-11,2025-05-10,1459404.0,1550414,472397,73432,12269,39383490,Rohit Gupta,Paused
+IND-CMP-10710,Amazon India,Independence Day Sale,EdTech,Email,Bhopal,Karnataka,2025-09-26,2025-10-09,82072.0,69984,1749546,139679,19139,63943399,Neha Kapoor,Completed
+IND-CMP-10068,Swiggy,Back to School,Retail,Google Ads,Surat,Tamil Nadu,2025-02-10,2025-02-17,286850.0,204416,109237,19701,2070,1761570,Karthik Iyer,Active
+IND-CMP-10965,PhonePe,Republic Day Offer,FinTech,Email,Patna,Telangana,2025-09-24,2025-10-20,763230.0,692590,362626,30529,547,2229572,Rohit Gupta,Completed
+IND-CMP-10711,Ola,Summer Offer,Real Estate,LinkedIn,Coimbatore,Kerala,2025-06-15,2025-07-29,268392.0,212405,1670324,323833,26184,55902840,Karthik Iyer,Paused
+IND-CMP-10291,Flipkart,Flash Sale,Real Estate,Email,,Karnataka,2025-09-13,2025-10-13,1330991.0,1331391,486430,31412,923,4483934,Amit Verma,Active
+IND-CMP-10584,Tata 1mg,Flash Sale,Healthcare,Instagram,Bangalore,Karnataka,2025-05-26,2025-07-07,344858.0,378167,916226,16708,1824,2721408,Priya Nair,Paused
+IND-CMP-10443,MakeMyTrip,Flash Sale,Real Estate,Instagram,Surat,Tamil Nadu,2025-08-24,2025-08-31,517463.0,497261,503649,41501,3497,14781819,Vikram Patel,Active
+IND-CMP-10004,Ola,Flash Sale,FinTech,Google Ads,Mumbai,Kerala,2025-05-11,2025-06-02,1260888.0,1046355,1967438,364140,54859,151465699,Vikram Patel,Active
+IND-CMP-10371,Tata 1mg,Back to School,FinTech,Google Ads,Chandigarh,West Bengal,2025-03-02,2025-03-26,683950.0,566757,1053450,37650,5796,23259348,Rahul Sharma,Paused
+IND-CMP-10372,Uber India,Flash Sale,E-commerce,LinkedIn,,West Bengal,2025-01-09,2025-01-24,1430418.0,1124144,1833240,298622,51105,97508340,Priya Nair,Active
+IND-CMP-10821,Flipkart,Diwali Campaign,E-commerce,Google Ads,Delhi,Gujarat,2025-05-21,2025-06-19,1380133.0,975116,864527,57938,6804,23984100,Anjali Mehta,Completed
+IND-CMP-10553,Amazon India,Flash Sale,FinTech,YouTube,Nagpur,Uttar Pradesh,2025-09-26,2025-11-10,168669.0,136740,902821,130111,4418,12591300,Anjali Mehta,Active
+IND-CMP-10053,Zomato,Independence Day Sale,E-commerce,Email,Patna,Haryana,2025-07-08,2025-08-12,219572.0,192173,1987401,48977,9377,41165030,Anjali Mehta,Active
+IND-CMP-10117,MakeMyTrip,Flash Sale,FinTech,Email,Patna,Andhra Pradesh,2025-07-26,2025-08-10,244887.0,186681,804763,67076,11184,12582000,Vikram Patel,Completed
+IND-CMP-10215,Tata 1mg,New Launch,E-commerce,Instagram,Kochi,Kerala,2025-04-21,2025-05-26,1307843.0,1338952,983097,136024,4675,2085050,Pooja Singh,Completed
+IND-CMP-10888,Uber India,Festive Sale,Real Estate,YouTube,Chennai,Telangana,2025-08-07,2025-08-18,484105.0,519421,710591,58257,9292,42529484,Neha Kapoor,Paused
+IND-CMP-10072,Flipkart,Festive Sale,E-commerce,Facebook Ads,Ahmedabad,Gujarat,2025-09-21,2025-10-04,981516.0,875126,1981496,307461,28151,74318640,Vikram Patel,Paused
+IND-CMP-10960,Nykaa,Festive Sale,Travel,YouTube,Chennai,Karnataka,2025-05-02,2025-06-14,1066680.0,726137,1516166,275527,45202,198481982,Amit Verma,Completed
+IND-CMP-10487,MakeMyTrip,Republic Day Offer,EdTech,Instagram,Bhopal,Rajasthan,2025-08-02,2025-09-04,588831.0,534494,815693,90629,5253,17907477,,Completed
+IND-CMP-10192,Nykaa,Diwali Campaign,FinTech,Google Ads,Nagpur,Gujarat,2025-04-17,2025-05-25,1229289.0,1321811,814168,92558,12182,18370456,Neha Kapoor,Active
+IND-CMP-10318,MakeMyTrip,Independence Day Sale,Healthcare,Google Ads,Delhi,Delhi,2025-10-02,2025-10-23,692167.0,547076,1069063,87801,5599,24204477,Rahul Sharma,Paused
+IND-CMP-10473,Meesho,Independence Day Sale,FinTech,WhatsApp,Jaipur,Madhya Pradesh,2025-07-16,2025-07-27,727104.0,472535,25518,247,22,8470,Neha Kapoor,Completed
+IND-CMP-10585,Meesho,Festive Sale,FinTech,Email,Noida,Tamil Nadu,2025-03-22,2025-04-16,360238.0,294150,1689013,55200,7275,25709850,Rohit Gupta,Active
+IND-CMP-10793,MakeMyTrip,Flash Sale,Healthcare,YouTube,Bhopal,Kerala,2025-07-29,2025-09-05,1293111.0,1074812,1372549,4793,877,2652925,Vikram Patel,Completed
+IND-CMP-10248,BigBasket,Back to School,E-commerce,Google Ads,Lucknow,Bihar,2025-06-23,2025-07-24,1222821.0,1021761,1121175,80163,5481,5048001,Sneha Reddy,Completed
+IND-CMP-10801,Zomato,Summer Offer,Healthcare,Google Ads,Indore,West Bengal,2025-05-18,2025-05-29,1250652.0,1237794,290560,27722,5180,16213400,Karthik Iyer,Completed
+IND-CMP-10554,Paytm,End of Season Sale,Real Estate,LinkedIn,Bangalore,Bihar,2025-03-12,2025-04-04,573250.0,418385,228251,38627,6546,8064672,Amit Verma,Active
+IND-CMP-10642,Swiggy,Independence Day Sale,Travel,Email,Indore,Rajasthan,2025-09-09,2025-10-03,306388.0,262262,1790940,296796,9242,11238272,Neha Kapoor,Active
+IND-CMP-10836,Flipkart,Diwali Campaign,Healthcare,Facebook Ads,Noida,Gujarat,2025-09-21,2025-11-03,1070318.0,731027,645714,65666,10046,4390102,Neha Kapoor,Active
+IND-CMP-10545,Flipkart,Back to School,EdTech,Email,Mumbai,Kerala,2025-07-11,2025-07-27,908278.0,827818,1801649,116551,5113,3977914,Vikram Patel,Paused
+IND-CMP-10062,Paytm,New Launch,Retail,LinkedIn,Chandigarh,Telangana,2025-04-20,2025-05-24,1202214.0,1224974,1292555,119173,23536,78163056,Rahul Sharma,Paused
+IND-CMP-10833,Nykaa,Diwali Campaign,Travel,Facebook Ads,Pune,Punjab,2025-09-26,2025-10-31,220796.0,209308,281549,49928,2197,7197372,Amit Verma,Paused
+IND-CMP-10017,BigBasket,Flash Sale,E-commerce,Email,Chennai,Punjab,2025-04-10,2025-05-15,239902.0,196385,502549,40602,943,3194884,Sneha Reddy,Paused
+IND-CMP-10124,BigBasket,Republic Day Offer,Healthcare,Instagram,Visakhapatnam,Gujarat,2025-09-03,2025-09-23,183844.0,178805,121212,1872,24,8328,Vikram Patel,Active
+IND-CMP-10021,Meesho,End of Season Sale,E-commerce,LinkedIn,Chennai,Delhi,2025-10-14,2025-11-05,173665.0,154307,1335086,214256,30078,91497276,Sneha Reddy,Completed
+IND-CMP-10366,Ajio,Republic Day Offer,Retail,Instagram,Hyderabad,Maharashtra,2025-04-30,2025-06-13,248360.0,268380,948133,164867,11463,40613409,Rahul Sharma,Active
+IND-CMP-10006,Paytm,Flash Sale,Retail,Google Ads,Lucknow,Madhya Pradesh,2025-05-14,2025-06-17,631234.0,604765,1706550,89136,16885,30561850,Pooja Singh,Paused
+IND-CMP-10341,Meesho,Flash Sale,Retail,Google Ads,Patna,Maharashtra,2025-07-27,2025-09-10,317487.0,282220,1342014,40970,7250,6249500,Rahul Sharma,Paused
+IND-CMP-10985,Uber India,Flash Sale,Retail,Facebook Ads,Kolkata,Punjab,2025-10-10,2025-10-20,68149.0,43713,855958,146532,12985,30891315,Anjali Mehta,Paused
+IND-CMP-10665,Zomato,Diwali Campaign,Healthcare,Facebook Ads,Chandigarh,Andhra Pradesh,2025-04-03,2025-05-04,1400645.0,1269390,1320175,70969,4106,9566980,Rohit Gupta,Paused
+IND-CMP-10041,Uber India,Summer Offer,Travel,Google Ads,Coimbatore,West Bengal,2025-06-18,2025-07-31,564894.0,585314,1111150,50876,7175,7282625,Priya Nair,Active
+IND-CMP-10739,Uber India,Republic Day Offer,Travel,YouTube,Jaipur,West Bengal,2025-06-07,2025-06-15,119837.0,115300,297106,24893,2342,6419422,Vikram Patel,Active
+IND-CMP-10668,MakeMyTrip,Republic Day Offer,Travel,Email,Noida,Punjab,2025-01-09,2025-01-30,555144.0,420922,1461363,181510,25198,55385204,Anjali Mehta,Active
+IND-CMP-10831,Paytm,Independence Day Sale,EdTech,Email,Bangalore,Kerala,2025-10-07,2025-11-03,105910.0,106925,736693,17413,1252,3540656,Karthik Iyer,Completed
+IND-CMP-10377,Nykaa,Diwali Campaign,FinTech,facebook ads,Noida,Tamil Nadu,2025-08-29,2025-10-04,471093.0,300889,392613,21116,992,4775488,Rahul Sharma,Paused
+IND-CMP-10752,BigBasket,Back to School,EdTech,LinkedIn,Bhopal,Haryana,2025-05-26,2025-07-07,905007.0,672518,289460,32359,1569,6385830,Priya Nair,Completed
+IND-CMP-10023,Uber India,Flash Sale,EdTech,Facebook Ads,Coimbatore,Maharashtra,2025-07-19,2025-08-30,1482900.0,1320570,1141617,134535,20633,54409221,Amit Verma,Completed
+IND-CMP-10921,Zomato,Independence Day Sale,FinTech,Facebook Ads,Kochi,Gujarat,2025-01-31,2025-02-19,1302297.0,1095029,1047826,20917,1961,9501045,Sneha Reddy,Active
+IND-CMP-10267,MakeMyTrip,Back to School,E-commerce,Facebook Ads,Kolkata,Telangana,2025-09-23,2025-10-01,1220550.0,1145852,91173,17420,3256,3067152,Karthik Iyer,Paused
+IND-CMP-10942,Byju's,Festive Sale,Real Estate,WhatsApp,Lucknow,Telangana,2025-05-09,2025-05-17,479501.0,430852,365736,48845,5168,10346336,Vikram Patel,Completed
+IND-CMP-10538,Byju's,New Launch,Retail,Email,Hyderabad,Kerala,2025-09-12,2025-10-13,821721.0,696597,1255300,164844,1980,2205720,Rohit Gupta,Completed
+IND-CMP-10120,Meesho,Flash Sale,Healthcare,Google Ads,Patna,Tamil Nadu,2025-01-26,2025-02-16,1180393.0,1144539,637861,5505,1083,2855871,Pooja Singh,Completed
+IND-CMP-10179,Zomato,Summer Offer,EdTech,Google Ads,Jaipur,Telangana,2025-01-06,2025-01-18,1151854.0,1241469,1860639,3445,134,171788,Pooja Singh,Completed
+IND-CMP-10744,Ola,New Launch,Healthcare,YouTube,Kochi,Maharashtra,2025-10-28,2025-11-30,1418186.0,1501136,1854752,38165,5432,25112136,Anjali Mehta,Completed
+IND-CMP-10637,Nykaa,Festive Sale,Healthcare,WhatsApp,Kochi,Kerala,2025-09-29,2025-10-26,1316957.0,978724,1679325,218479,18600,7291200,Sneha Reddy,Paused
+IND-CMP-10340,Meesho,Independence Day Sale,Retail,Facebook Ads,Bangalore,Rajasthan,2025-05-03,2025-06-07,890952.0,757943,382165,39273,1780,5183360,Anjali Mehta,Completed
+IND-CMP-10806,Nykaa,Festive Sale,FinTech,Instagram,Kolkata,Telangana,2025-02-20,2025-03-05,690519.0,428626,1763974,267489,7716,25701996,Sneha Reddy,Completed
+IND-CMP-10418,Nykaa,Republic Day Offer,Travel,LinkedIn,Coimbatore,Haryana,2025-01-04,2025-01-17,638821.0,700227,192267,20879,3949,12703933,Sneha Reddy,Completed
+IND-CMP-10558,Ola,Diwali Campaign,FinTech,Google Ads,Visakhapatnam,Telangana,2025-02-14,2025-03-17,242096.0,180359,905351,93334,601,492219,Priya Nair,Completed
+IND-CMP-10223,PhonePe,New Launch,E-commerce,YouTube,Chennai,Karnataka,2025-06-12,2025-06-23,757001.0,462551,1798721,111543,7931,35784672,Amit Verma,Completed
+IND-CMP-10329,Flipkart,Diwali Campaign,Real Estate,YouTube,Chennai,Gujarat,2025-04-04,2025-04-21,181467.0,120064,1996803,125854,12784,62168592,Vikram Patel,Active
+IND-CMP-10922,Amazon India,Festive Sale,Retail,Facebook Ads,Jaipur,Madhya Pradesh,2025-06-19,2025-06-26,882597.0,807730,979499,141799,26048,111016576,Rohit Gupta,Paused
+IND-CMP-10193,BigBasket,Festive Sale,E-commerce,Facebook Ads,Hyderabad,Gujarat,2025-02-08,2025-03-09,1052838.0,663016,124475,12360,36,145368,Pooja Singh,Active
+IND-CMP-10019,Paytm,Diwali Campaign,Retail,LinkedIn,Kolkata,Haryana,2025-10-13,2025-10-25,315284.0,361139,19764,3716,99,56331,Karthik Iyer,Completed
+IND-CMP-10324,PhonePe,Independence Day Sale,Healthcare,Email,Delhi,Haryana,2025-10-25,2025-11-02,1228257.0,1179861,328008,27097,2267,9052131,Karthik Iyer,Completed
+IND-CMP-10053,Zomato,Independence Day Sale,E-commerce,Email,Patna,Haryana,2025-07-08,2025-08-12,219572.0,192173,1987401,48977,9377,41165030,Anjali Mehta,Active
+IND-CMP-10931,MakeMyTrip,Back to School,Retail,Facebook Ads,Bhopal,Karnataka,2025-04-11,2025-05-10,1373713.0,1292092,197905,5150,962,3451656,Neha Kapoor,Active
+IND-CMP-10660,PhonePe,Republic Day Offer,FinTech,Instagram,Indore,Gujarat,2025-05-06,2025-05-23,1471986.0,972788,1122410,147078,1410,3783030,Vikram Patel,Active
+IND-CMP-10174,Ola,New Launch,EdTech,Instagram,Bangalore,Karnataka,2025-07-04,2025-07-17,813058.0,784473,115693,20400,2825,2969075,Rahul Sharma,Paused
+IND-CMP-10948,Nykaa,Independence Day Sale,Healthcare,WhatsApp,Bhopal,Gujarat,2025-06-09,2025-06-30,848246.0,670364,967007,67131,11560,47904640,Vikram Patel,Active
+IND-CMP-10058,PhonePe,Independence Day Sale,Retail,WhatsApp,Hyderabad,Karnataka,2025-03-01,2025-03-11,1389984.0,1549046,978168,171283,11328,37473024,Amit Verma,Paused
+IND-CMP-10260,BigBasket,End of Season Sale,Healthcare,Google Ads,Patna,Gujarat,2025-09-08,2025-10-08,1359744.0,934304,479750,73184,8709,22155696,Amit Verma,Paused
+IND-CMP-10681,Byju's,Summer Offer,E-commerce,WhatsApp,Kolkata,Gujarat,2025-07-02,2025-08-04,1238264.0,791649,1309425,52864,1108,1293036,Karthik Iyer,Active
+IND-CMP-10717,Zomato,End of Season Sale,Travel,Google Ads,Ahmedabad,Bihar,2025-05-29,2025-06-11,1400528.0,1219912,804413,121857,22861,8687180,Pooja Singh,Completed
+IND-CMP-10383,Tata 1mg,Independence Day Sale,Healthcare,YouTube,Chennai,West Bengal,2025-03-22,2025-04-11,529393.0,398696,596711,10587,97,184979,Vikram Patel,Active
