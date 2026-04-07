@@ -1,0 +1,250 @@
+{
+  "dq_score_pct": 96.7,
+  "dq_status": "FAIL",
+  "passed": 29,
+  "warnings": 0,
+  "failed": 1,
+  "total_checks": 30,
+  "checks": [
+    {
+      "category": "Completeness",
+      "column": "campaign_id",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "company",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "campaign_name",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "industry",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "channel",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "city",
+      "check": "Null % \u2264 5.0%",
+      "value": 2.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "state",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "start_date",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "end_date",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "budget_inr",
+      "check": "Null % \u2264 5.0%",
+      "value": 2.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "spend_inr",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "impressions",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "clicks",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "conversions",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "revenue_inr",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "campaign_manager",
+      "check": "Null % \u2264 5.0%",
+      "value": 2.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "status",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "city_is_null",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "budget_inr_is_null",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "campaign_manager_is_null",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Completeness",
+      "column": "roi_pct",
+      "check": "Null % \u2264 5.0%",
+      "value": 0.0,
+      "threshold": 5.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Uniqueness",
+      "column": "_all_",
+      "check": "Duplicate % \u2264 3.0%",
+      "value": 0.0,
+      "threshold": 3.0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "spend_inr",
+      "check": "spend_inr \u2265 0.0",
+      "value": 10,
+      "threshold": 0,
+      "status": "FAIL"
+    },
+    {
+      "category": "Range",
+      "column": "spend_inr",
+      "check": "spend_inr \u2264 9999999.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "conversions",
+      "check": "conversions \u2265 0.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "conversions",
+      "check": "conversions \u2264 9999999.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "clicks",
+      "check": "clicks \u2265 0.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "clicks",
+      "check": "clicks \u2264 9999999.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "revenue_inr",
+      "check": "revenue_inr \u2265 0.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    },
+    {
+      "category": "Range",
+      "column": "revenue_inr",
+      "check": "revenue_inr \u2264 999999999.0",
+      "value": 0,
+      "threshold": 0,
+      "status": "PASS"
+    }
+  ]
+}

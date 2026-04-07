@@ -1,0 +1,58 @@
+[
+  {
+    "step": "pii_mask_company",
+    "layer": "silver",
+    "action": "SHA256 hash applied to company",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "PII column company hashed for privacy compliance"
+  },
+  {
+    "step": "pii_mask_campaign_name",
+    "layer": "silver",
+    "action": "SHA256 hash applied to campaign_name",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "PII column campaign_name hashed for privacy compliance"
+  },
+  {
+    "step": "null_flag_city",
+    "layer": "silver",
+    "action": "Add null flag for city",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "Added city_is_null indicator column"
+  },
+  {
+    "step": "null_flag_budget_inr",
+    "layer": "silver",
+    "action": "Add null flag for budget_inr",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "Added budget_inr_is_null indicator column"
+  },
+  {
+    "step": "null_flag_campaign_manager",
+    "layer": "silver",
+    "action": "Add null flag for campaign_manager",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "Added campaign_manager_is_null indicator column"
+  },
+  {
+    "step": "custom_roi_pct",
+    "layer": "silver",
+    "action": "Custom: roi_pct = revenue_inr/spend_inr*100",
+    "rows_in": 1025,
+    "rows_out": 1025,
+    "notes": "Custom business rule applied: roi_pct=revenue_inr/spend_inr*100"
+  },
+  {
+    "step": "dedup_silver",
+    "layer": "silver",
+    "action": "Remove duplicate rows",
+    "rows_in": 1025,
+    "rows_out": 1002,
+    "notes": "Removed 23 duplicate rows in Silver layer"
+  }
+]
