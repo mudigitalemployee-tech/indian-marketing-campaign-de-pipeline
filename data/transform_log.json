@@ -24,12 +24,12 @@
     "notes": "Added city_is_null indicator column"
   },
   {
-    "step": "null_flag_budget_inr",
+    "step": "null_fill_mean_budget_inr",
     "layer": "silver",
-    "action": "Add null flag for budget_inr",
+    "action": "Fill nulls with mean in budget_inr",
     "rows_in": 1025,
     "rows_out": 1025,
-    "notes": "Added budget_inr_is_null indicator column"
+    "notes": "Null values in budget_inr filled with column mean"
   },
   {
     "step": "null_flag_campaign_manager",

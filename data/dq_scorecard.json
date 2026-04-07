@@ -1,10 +1,10 @@
 {
-  "dq_score_pct": 96.7,
+  "dq_score_pct": 96.0,
   "dq_status": "FAIL",
-  "passed": 29,
+  "passed": 24,
   "warnings": 0,
   "failed": 1,
-  "total_checks": 30,
+  "total_checks": 25,
   "checks": [
     {
       "category": "Completeness",
@@ -82,7 +82,7 @@
       "category": "Completeness",
       "column": "budget_inr",
       "check": "Null % \u2264 5.0%",
-      "value": 2.0,
+      "value": 0.0,
       "threshold": 5.0,
       "status": "PASS"
     },
@@ -152,14 +152,6 @@
     },
     {
       "category": "Completeness",
-      "column": "budget_inr_is_null",
-      "check": "Null % \u2264 5.0%",
-      "value": 0.0,
-      "threshold": 5.0,
-      "status": "PASS"
-    },
-    {
-      "category": "Completeness",
       "column": "campaign_manager_is_null",
       "check": "Null % \u2264 5.0%",
       "value": 0.0,
@@ -210,38 +202,6 @@
       "category": "Range",
       "column": "conversions",
       "check": "conversions \u2264 9999999.0",
-      "value": 0,
-      "threshold": 0,
-      "status": "PASS"
-    },
-    {
-      "category": "Range",
-      "column": "clicks",
-      "check": "clicks \u2265 0.0",
-      "value": 0,
-      "threshold": 0,
-      "status": "PASS"
-    },
-    {
-      "category": "Range",
-      "column": "clicks",
-      "check": "clicks \u2264 9999999.0",
-      "value": 0,
-      "threshold": 0,
-      "status": "PASS"
-    },
-    {
-      "category": "Range",
-      "column": "revenue_inr",
-      "check": "revenue_inr \u2265 0.0",
-      "value": 0,
-      "threshold": 0,
-      "status": "PASS"
-    },
-    {
-      "category": "Range",
-      "column": "revenue_inr",
-      "check": "revenue_inr \u2264 999999999.0",
       "value": 0,
       "threshold": 0,
       "status": "PASS"

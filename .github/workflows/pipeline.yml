@@ -44,9 +44,9 @@ jobs:
           python3 -c "
 import pandas as pd, sys, os
 threshold = int(os.environ.get('DQ_THRESHOLD', '0'))
-path = 'data/silver_clean.csv'
+path = 'data/transformed.csv'
 if not os.path.exists(path):
-    print('WARNING: silver_clean.csv not found — skipping validation')
+    print('WARNING: transformed.csv not found — skipping validation')
     sys.exit(0)
 df = pd.read_csv(path)
 print(f'Rows: {len(df)} | Columns: {len(df.columns)}')

@@ -11,7 +11,7 @@
 | **Raw Rows** | 1,025 |
 | **Silver Rows** | 1,002 |
 | **Gold Rows** | 8 |
-| **DQ Score** | 96.7% |
+| **DQ Score** | 96.0% |
 | **Schedule** | 0 6 * * * |
 | **DAG ID** | indian_marketing_campaign_pipeline |
 
@@ -20,7 +20,7 @@
 ```
 data/
   bronze_raw.csv            ← Raw source data exactly as ingested (Bronze layer)
-  silver_clean.csv          ← Cleaned, deduped, PII-masked data (Silver layer)
+  transformed.csv          ← Cleaned, deduped, PII-masked data (Silver layer)
   gold_aggregated.csv       ← Business KPI aggregations (Gold layer)
   dq_scorecard.json         ← Data quality check results (96.7% score)
   transform_log.json        ← Full audit trail of all transformations
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 pipeline/airflow_dag.py
 
 # Run DQ checks
-python3 pipeline/dq_checks.py --data_path data/silver_clean.csv
+python3 pipeline/dq_checks.py --data_path data/transformed.csv
 ```
 
 ## CI/CD
