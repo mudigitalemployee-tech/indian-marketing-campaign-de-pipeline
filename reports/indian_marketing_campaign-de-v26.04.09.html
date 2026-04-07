@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Indian Marketing Campaign DE Pipeline Report</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<style type="text/css">
+body {
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px; line-height:1.42857; color:#333; background:#fff;
+  counter-reset:h2counter;
+}
+div.container-fluid.main-container { max-width:1200px; margin:0 auto; }
+#TOC {
+  position:fixed; top:0; width:20%; max-width:260px; max-height:85%;
+  border:1px solid #ccc; border-radius:6px; overflow:auto; overflow-y:auto;
+  margin:25px 0 20px 0; padding:0; background:#fff; z-index:1000;
+}
+#TOC ul { list-style:none; margin:0; padding:0; border:none; }
+#TOC .tocify-subheader { display:none; }
+#TOC .list-group-item {
+  display:block; padding:4px 15px; border:0; border-radius:0;
+  background-color:inherit; color:#000; cursor:pointer; font-size:14px;
+  text-decoration:none;
+}
+#TOC .tocify-subheader .list-group-item { padding-left:25px; font-size:12.6px; }
+#TOC .tocify-subheader .tocify-subheader .list-group-item { padding-left:35px; font-size:11.9px; }
+#TOC .list-group-item:hover { background-color:#f5f5f5; text-decoration:none; }
+#TOC .list-group-item.active,
+#TOC .list-group-item.active:hover,
+#TOC .list-group-item.active:focus { color:#fff; background-color:#337ab7; border-color:#337ab7; }
+.toc-content { padding-left:30px; padding-right:40px; counter-reset:h2counter; }
+.toc-content h2 {
+  font-size:30px; font-weight:400; color:#333; margin-top:30px;
+  counter-increment:h2counter; counter-reset:h3counter;
+}
+.toc-content h2::before { content:counter(h2counter) ". "; font-weight:500; }
+.toc-content h3 {
+  font-size:24px; font-weight:400; color:#333; margin-top:22px;
+  counter-increment:h3counter;
+}
+.toc-content h3::before { content:counter(h2counter) "." counter(h3counter) " "; font-weight:500; }
+h1.title { font-size:38px; color:#800000; margin-top:0; }
+.section.level2 { margin-top:20px; }
+.section.level3 { margin-top:14px; }
+table { margin:14px auto; border-collapse:collapse; border:none; font-size:12px; color:#000; width:100%; }
+thead { border-bottom:1px solid #000; vertical-align:bottom; }
+tr, th, td { text-align:left; vertical-align:middle; padding:0.5em 0.8em; border:none; }
+th { font-weight:bold; }
+tbody tr:nth-child(odd) { background:#f5f5f5; }
+tbody tr:hover { background:rgba(66,165,245,0.15); }
+.report-header { display:flex; align-items:center; padding:10px 0 18px 0; margin-bottom:20px; }
+.report-header .logo { flex:0 0 120px; }
+.report-header .logo img { height:90px; }
+.report-header .title-block { flex:1; text-align:center; }
+.report-header .title-block .title-text { font-size:28px; font-weight:700; color:#800000; line-height:1.2; }
+.report-header .title-block .title-sub { font-size:17px; font-weight:400; color:#800000; margin-top:4px; }
+.report-header .title-block .author-date { font-size:14px; color:#666; margin-top:4px; }
+.report-header .spacer { flex:0 0 120px; }
+.report-footer { margin-top:60px; padding:6px 0 14px 0; border-top:2px solid #800000; text-align:center; font-size:13px; letter-spacing:0.5px; }
+.report-footer .footer-subtitle { margin-top:0; font-size:13px; color:#444; font-style:italic; }
+@media print { #TOC { display:none; } .col-sm-8 { width:100%; } .toc-content { padding-left:0; padding-right:0; } }
+</style>
+</head>
+<body>
+<div class="container-fluid main-container">
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+  <div id="TOC"></div>
+</div>
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+<!-- Header -->
+<div class="report-header">
+  <div class="logo">
+    <img src="http://upload.wikimedia.org/wikipedia/en/0/0c/Mu_Sigma_Logo.jpg" alt="Mu Sigma"/>
+  </div>
+  <div class="title-block">
+    <div class="title-text">Indian Marketing Campaign</div>
+    <div class="title-sub">Data Engineering Pipeline Report</div>
+    <div class="author-date"><b>Author:</b> Ved &nbsp;|&nbsp; <b>Version:</b> 26.04.09 &nbsp;|&nbsp; <b>Date:</b> April 07, 2026</div>
+  </div>
+  <div class="spacer"></div>
+</div>
+
+<!-- S1: Executive Summary -->
+<div id="executive-summary" class="section level2">
+<h2>Executive Summary</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">A high-level snapshot of the entire pipeline run : what data was processed, how clean it is, and whether the pipeline is healthy. Read this first to get the full picture in under a minute.</p>
+<p>The <strong>Indian Marketing Campaign</strong> data engineering pipeline processed <strong>0 raw records</strong> across all source tables and produced <strong>0 clean Silver-layer records</strong> via 7 automated transformation steps. The pipeline achieved a post-transform Data Quality score of <strong>96.7%</strong> (29 checks passed, 0 warnings, 1 failures). Architecture pattern: <strong>MEDALLION</strong> (Bronze→Silver→Gold). PII columns detected: <strong>None</strong>. Pipeline health status: <span style='color:#28a745;font-weight:700'>GREEN</span>.</p>
+<table><thead><tr><th>Metric</th><th>Value</th></tr></thead><tbody>
+<tr><td>Project</td><td><strong>Indian Marketing Campaign</strong></td></tr>
+<tr><td>Architecture</td><td>MEDALLION</td></tr>
+<tr><td>Pipeline Type</td><td>ETL</td></tr>
+<tr><td>Total Rows Processed</td><td>0</td></tr>
+<tr><td>Silver Rows</td><td>0</td></tr>
+<tr><td>Post-Transform DQ Score</td><td><strong>96.7%</strong></td></tr>
+<tr><td>Transform Steps</td><td>7</td></tr>
+<tr><td>PII Columns Masked</td><td>None detected</td></tr>
+<tr><td>Pipeline Duration</td><td>0.0s</td></tr>
+<tr><td>Pipeline Health</td><td><strong style="color:#28a745">GREEN</strong></td></tr>
+<tr><td>Run Timestamp</td><td>2026-04-07 10:44:41 UTC</td></tr>
+<tr><td>Airflow DAG</td><td>indian_marketing_campaign_pipeline | Schedule: 0 6 * * *</td></tr>
+</tbody></table>
+</div>
+
+<!-- S2: Source Data Profile -->
+<div id="source-profile" class="section level2">
+<h2>Source Data Profile</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">This section shows exactly what the raw data looks like before any processing. It tells you the column names, data types, how many rows exist, which columns have missing values, whether there are duplicate records, and which columns contain sensitive personal information (PII) that needs to be protected.</p>
+<p>Schema not available.</p>
+</div>
+
+<!-- S3: Data Architecture Design -->
+<div id="architecture" class="section level2">
+<h2>Data Architecture Design</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">This section explains how the pipeline is structured : think of it as a blueprint. Data flows through three layers: Bronze (raw, untouched data), Silver (cleaned and organized data), and Gold (business-ready summaries). This layered approach ensures that clean, reliable data is always available for reporting and analysis.</p>
+<div id="arch-overview" class="section level3">
+<h3>Architecture Pattern</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">The chosen pattern determines how data moves through the pipeline. Medallion (Bronze-Silver-Gold) is the most common for analytics : it keeps raw data intact while progressively refining it for business use.</p>
+<p><strong>Pattern:</strong> MEDALLION:
+Bronze to Silver to Gold layered pipeline</p>
+<p><strong>Why this pattern:</strong> Selected based on data volume, sources, and analytics requirements.</p>
+</div>
+<div id="arch-layers" class="section level3">
+<h3>Data Layers Explained</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">Each layer has a specific role. Bronze keeps the original data safe. Silver makes it clean and trustworthy. Gold makes it easy for business teams to use directly in dashboards and reports.</p>
+<table><thead><tr><th>Layer</th><th>Table Name</th><th>What It Does</th><th>What Is Stored Here</th><th>Who Uses It</th></tr></thead><tbody>
+<tr><td><strong style="color:#856404">Bronze</strong></td><td><code>indian_marketing_campaign_bronze</code></td><td>Stores raw data exactly as received from the source. Nothing is changed or removed.</td><td>All original records including duplicates and empty values</td><td>Data engineers when debugging issues or reprocessing data</td></tr>
+<tr><td><strong style="color:#6c757d">Silver</strong></td><td><code>indian_marketing_campaign_silver</code></td><td>Cleaned, standardized, and validated data. Duplicates removed, nulls handled, sensitive data masked.</td><td>Clean, typed, deduplicated records ready for analysis</td><td>Data scientists, analysts, and automated aggregation jobs</td></tr>
+<tr><td><strong style="color:#28a745">Gold</strong></td><td><code>indian_marketing_campaign_gold_*</code></td><td>Pre-calculated business metrics and KPIs ready to plug directly into dashboards.</td><td>Aggregated summaries grouped by channel, region, time, etc.</td><td>Business teams, BI tools, dashboards, and executives</td></tr>
+</tbody></table>
+</div>
+<div id="arch-ddl" class="section level3">
+<h3>Silver Layer Table Structure (DDL)</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">This is the technical definition of the Silver table : column names, data types, and whether each column is required. Useful for database admins and developers setting up the destination.</p>
+<pre style="background:#f8f9fa;border:1px solid #dee2e6;border-radius:4px;padding:16px;font-size:11px;overflow-x:auto">-- DDL not available. Run Stage 2 to generate the table structure.</pre>
+</div>
+</div>
+
+<!-- S4: Data Ingestion Summary -->
+<div id="ingestion" class="section level2">
+<h2>Data Ingestion Summary</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">Ingestion is the first step : reading data from the source and loading it into the Bronze layer without any changes. This section shows how many rows were pulled in, how long it took, and whether all expected data arrived correctly.</p>
+<div id="ingest-funnel" class="section level3">
+<h3>How Many Rows Made It Through Each Stage</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">This funnel shows the data count at each stage of the pipeline. If a large number of rows disappear between stages, it means many records were filtered out due to quality issues : something worth investigating.</p>
+
+<table><thead><tr><th>Stage</th><th>Row Count</th><th>Change</th><th>Notes</th></tr></thead>
+<tbody>
+<tr><td><strong>Extracted (Bronze)</strong></td><td>0</td><td></td><td>Raw source records, untouched</td></tr>
+<tr><td><strong>After Transform (Silver)</strong></td><td>0</td><td>−0 (N/A)</td><td>After dedup, null handling, business rules</td></tr>
+<tr><td><strong>Ready to Load (Gold)</strong></td><td>0</td><td>Retention: N/A</td><td>Aggregated and ready for destination</td></tr>
+</tbody></table>
+</div>
+<div id="ingest-meta" class="section level3">
+<h3>Ingestion Details</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">Key technical details about where the data came from and what was found during the initial read.</p>
+<table><thead><tr><th>Detail</th><th>Value</th></tr></thead><tbody>
+<tr><td>Data Source</td><td>N/A</td></tr>
+<tr><td>Total Rows Extracted</td><td>0</td></tr>
+<tr><td>Columns Extracted</td><td>0</td></tr>
+<tr><td>Initial Quality Score</td><td>N/A%</td></tr>
+<tr><td>Time Taken to Extract</td><td>0.00 seconds</td></tr>
+<tr><td>Sensitive Columns Found (PII)</td><td>None detected</td></tr>
+</tbody></table>
+</div>
+</div>
+
+<!-- S5: Transformation Log -->
+<div id="transformation" class="section level2">
+<h2>Transformation Log</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">Transformation is the process of cleaning and preparing raw data for use. This section shows every single change that was made to the data : removing duplicates, filling in missing values, masking sensitive information, and applying business rules. Think of it as a complete audit trail so you always know exactly what happened to your data.</p>
+
+<p><strong>7 transformation steps applied successfully.</strong></p>
+<ul style="margin-left:20px;margin-bottom:16px"><li><strong>pii_mask_company.&nbsp;SHA256 hash applied to company</strong>: PII column company hashed for privacy compliance</li><li><strong>pii_mask_campaign_name.&nbsp;SHA256 hash applied to campaign_name</strong>: PII column campaign_name hashed for privacy compliance</li><li><strong>null_flag_city.&nbsp;Add null flag for city</strong>: Added city_is_null indicator column</li><li><strong>null_flag_budget_inr.&nbsp;Add null flag for budget_inr</strong>: Added budget_inr_is_null indicator column</li><li><strong>null_flag_campaign_manager.&nbsp;Add null flag for campaign_manager</strong>: Added campaign_manager_is_null indicator column</li><li><strong>custom_roi_pct.&nbsp;Custom: roi_pct = revenue_inr/spend_inr*100</strong>: Custom business rule applied: roi_pct=revenue_inr/spend_inr*100</li><li><strong>dedup_silver.&nbsp;Remove duplicate rows</strong>: Removed 23 duplicate rows in Silver layer</li></ul>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:right">#</th>
+      <th>Action</th>
+      <th>Description / Layer</th>
+      <th>Rows In</th>
+      <th>Rows Out</th>
+      <th style="text-align:right">Change</th>
+    </tr>
+  </thead>
+  <tbody><tr><td style="text-align:right;font-weight:600">pii_mask_company</td><td>SHA256 hash applied to company</td><td style="font-size:12px;color:#555">PII column company hashed for privacy compliance</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">pii_mask_campaign_name</td><td>SHA256 hash applied to campaign_name</td><td style="font-size:12px;color:#555">PII column campaign_name hashed for privacy compliance</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">null_flag_city</td><td>Add null flag for city</td><td style="font-size:12px;color:#555">Added city_is_null indicator column</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">null_flag_budget_inr</td><td>Add null flag for budget_inr</td><td style="font-size:12px;color:#555">Added budget_inr_is_null indicator column</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">null_flag_campaign_manager</td><td>Add null flag for campaign_manager</td><td style="font-size:12px;color:#555">Added campaign_manager_is_null indicator column</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">custom_roi_pct</td><td>Custom: roi_pct = revenue_inr/spend_inr*100</td><td style="font-size:12px;color:#555">Custom business rule applied: roi_pct=revenue_inr/spend_inr*100</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,025</td><td style="text-align:right;font-size:11px">1,025</td></tr><tr><td style="text-align:right;font-weight:600">dedup_silver</td><td>Remove duplicate rows</td><td style="font-size:12px;color:#555">Removed 23 duplicate rows in Silver layer</td><td style="font-size:11px;color:#856404">1,025</td><td style="font-size:11px;color:#28a745">1,002</td><td style="text-align:right;font-size:11px">-23</td></tr></tbody>
+</table>
+</div>
+
+<!-- S6: Data Quality Scorecard -->
+<div id="dq-scorecard" class="section level2">
+<h2>Data Quality Scorecard</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">Data quality checks verify that the data meets the standards required for reliable reporting and decision-making. This scorecard shows the overall quality score and breaks down which checks passed, which raised warnings, and which failed. A score above 90% is considered good. Any failures should be investigated before the data is used in production.</p>
+<div id="dq-summary-scores" class="section level3">
+<h3>Overall Quality Score Before and After Cleaning</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">Comparing the quality score before and after transformation shows how much the pipeline improved the data. A significant improvement means the cleaning steps worked well.</p>
+<table><thead><tr><th>Stage</th><th>Quality Score</th><th>Checks Passed</th><th>Warnings</th><th>Failures</th></tr></thead><tbody>
+<tr><td>Before Cleaning (Bronze layer)</td><td><strong>N/A%</strong></td><td style="color:#28a745">0</td><td style="color:#856404">0</td><td style="color:#721c24">0</td></tr>
+<tr><td>After Cleaning (Silver layer)</td><td><strong>96.7%</strong></td><td style="color:#28a745">29</td><td style="color:#856404">0</td><td style="color:#721c24">1</td></tr>
+</tbody></table>
+</div>
+<div id="dq-by-category" class="section level3">
+<h3>Quality Checks Grouped by Type</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">Quality checks are grouped into categories such as completeness (no missing values), uniqueness (no duplicates), and range validation (numbers within expected limits). This breakdown helps identify which type of data issue is most common.</p>
+<p><strong>Pre-Transform DQ Results by Category:</strong> No DQ results available.</p>
+<p><strong>Post-Transform DQ Results by Category</strong></p>
+<table><thead><tr><th>Category</th><th style="text-align:right">PASS</th><th style="text-align:right">WARN</th><th style="text-align:right">FAIL</th><th style="text-align:right">Total</th></tr></thead>
+<tbody><tr><td>Completeness</td><td style="color:#28a745;font-weight:700;text-align:right">21</td><td style="color:#856404;font-weight:700;text-align:right">0</td><td style="color:#721c24;font-weight:700;text-align:right">0</td><td style="font-weight:700;text-align:right">21</td></tr><tr><td>Uniqueness</td><td style="color:#28a745;font-weight:700;text-align:right">1</td><td style="color:#856404;font-weight:700;text-align:right">0</td><td style="color:#721c24;font-weight:700;text-align:right">0</td><td style="font-weight:700;text-align:right">1</td></tr><tr><td>Range</td><td style="color:#28a745;font-weight:700;text-align:right">7</td><td style="color:#856404;font-weight:700;text-align:right">0</td><td style="color:#721c24;font-weight:700;text-align:right">1</td><td style="font-weight:700;text-align:right">8</td></tr></tbody></table>
+</div>
+<div id="dq-detail" class="section level3">
+<h3>Detailed Check Results (After Cleaning)</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">Every individual quality check and its result. Use this to identify exactly which column or rule is causing a failure so it can be fixed at the source.</p>
+<table><thead><tr><th>Check Name</th><th>Category</th><th>Result</th><th>Details</th></tr></thead>
+<tbody><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=2.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=2.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=2.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Null % ≤ 5.0%</td><td>Completeness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=5.0</td></tr><tr><td>Duplicate % ≤ 3.0%</td><td>Uniqueness</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0.0 threshold=3.0</td></tr><tr><td>spend_inr ≥ 0.0</td><td>Range</td><td><span style="background:#f8d7da;color:#721c24;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">FAIL</span></td><td style="font-size:11px">value=10 threshold=0</td></tr><tr><td>spend_inr ≤ 9999999.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>conversions ≥ 0.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>conversions ≤ 9999999.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>clicks ≥ 0.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>clicks ≤ 9999999.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>revenue_inr ≥ 0.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr><tr><td>revenue_inr ≤ 999999999.0</td><td>Range</td><td><span style="background:#d4edda;color:#155724;padding:1px 7px;border-radius:3px;font-size:11px;font-weight:700">PASS</span></td><td style="font-size:11px">value=0 threshold=0</td></tr></tbody></table>
+</div>
+</div>
+
+<!-- S7: Data Lineage -->
+<div id="lineage" class="section level2">
+<h2>Data Lineage</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">Data lineage shows the complete journey of data from its original source all the way to the final output. It answers the question: "Where did this number come from?" This is critical for trust, compliance, and troubleshooting : if something looks wrong in a report, lineage helps you trace it back to the root cause.</p>
+<p>Lineage data not available. Run all stages to generate.</p>
+</div>
+
+<!-- S8: Pipeline Orchestration -->
+<div id="orchestration" class="section level2">
+<h2>Pipeline Orchestration</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">Orchestration is the scheduling and automation layer : it ensures the pipeline runs at the right time, handles failures gracefully, and alerts the team when something goes wrong. This section shows the pipeline schedule, retry logic, and health monitoring configuration.</p>
+<div id="orch-config" class="section level3">
+<h3>Pipeline Schedule and Run Configuration</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">The DAG (Directed Acyclic Graph) is the Airflow workflow that runs the pipeline automatically. It defines when the pipeline runs, how many times to retry on failure, and what order the steps execute in.</p>
+<table><thead><tr><th>Setting</th><th>Value</th></tr></thead><tbody>
+<tr><td>Pipeline Name (DAG ID)</td><td><code>indian_marketing_campaign_pipeline</code></td></tr>
+<tr><td>When It Runs (Schedule)</td><td><code>0 6 * * *</code> (daily at 6:00 AM)</td></tr>
+<tr><td>Retry on Failure</td><td>3 retries with a 5-minute wait between each attempt</td></tr>
+<tr><td>Simultaneous Runs Allowed</td><td>1 only (prevents duplicate processing)</td></tr>
+<tr><td>Maximum Allowed Run Time (SLA)</td><td>2 hours. Alert triggers if exceeded.</td></tr>
+<tr><td>Quality Gate</td><td>If data quality checks fail, the pipeline stops and sends an alert instead of loading bad data</td></tr>
+<tr><td>Step Order</td><td>Extract data → Clean and transform → Run quality checks → Load to destination → Validate → Send notification</td></tr>
+</tbody></table>
+</div>
+<div id="orch-monitoring" class="section level3">
+<h3>Health Monitoring</h3>
+<p style="font-size:12px;color:#666;margin-bottom:8px">The pipeline is monitored continuously. If row counts drop unexpectedly, quality scores fall below the threshold, or the pipeline takes too long, an alert is sent to the on-call team so they can investigate before it affects downstream reports.</p>
+<p><strong>Current Pipeline Health:</strong> <span style="color:#28a745;font-weight:700">GREEN</span></p>
+<table><thead><tr><th>What Is Monitored</th><th>Description</th><th>Normal Value</th><th>Warning Triggered If</th><th>Failure Triggered If</th><th>How Often</th></tr></thead>
+<tbody><tr><td colspan="6" style="text-align:center">Run Stage 4 to generate monitoring configuration</td></tr></tbody></table>
+</div>
+</div>
+
+<!-- S9: Business Insights and Recommendations -->
+<div id="insights" class="section level2">
+<h2>Business Insights and Recommendations</h2>
+<p style="font-size:13px;color:#555;margin-bottom:12px">This section translates technical pipeline results into actionable business observations. Each finding is ranked by priority (P0 = critical, P1 = important, P2 = informational) so the team knows what to act on first. These insights are automatically generated based on what the pipeline observed in the data during this run.</p>
+<table><thead><tr><th>Priority</th><th>What Was Found</th><th>Why It Matters</th><th>What You Should Do</th><th>Expected Outcome</th></tr></thead>
+<tbody><tr><td><strong>P2</strong></td><td>DQ Score: 96.7% Target Met ✅</td><td style="font-size:11px">All 29 DQ checks passed post-transform.</td><td style="font-size:11px">Continue monitoring DQ score across runs. Set up drift alerts.</td><td style="font-size:11px">Reliable, trusted data in Gold layer.</td></tr><tr><td><strong>P2</strong></td><td>Architecture: SIMPLE Fit Assessment</td><td style="font-size:11px">Simple ETL appropriate for current scale. Consider Medallion if volume or source count grows.</td><td style="font-size:11px">Review architecture quarterly as data volume and use cases grow.</td><td style="font-size:11px">Sustainable pipeline design aligned to business scale.</td></tr><tr><td><strong>P2</strong></td><td>7 Transformation Steps Completed</td><td style="font-size:11px">All transformation steps applied without errors. Full audit log available.</td><td style="font-size:11px">Review transform log periodically for redundant or obsolete steps.</td><td style="font-size:11px">Reproducible, auditable pipeline with documented transformation history.</td></tr></tbody></table>
+</div>
+
+<!-- Footer -->
+<div class="report-footer">
+  <div class="footer-subtitle" id="footer-dynamic-text"></div>
+</div>
+<script>
+(function() {
+  var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+  var now = new Date();
+  document.getElementById("footer-dynamic-text").textContent =
+    "Confidential — Mu Sigma, Inc. — " + months[now.getMonth()] + " " + now.getFullYear();
+})();
+</script>
+
+</div><!-- /toc-content -->
+</div><!-- /row -->
+</div><!-- /main-container -->
+
+<!-- TOC Builder (canonical MuSigma template script) -->
+<script>
+$(document).ready(function() {
+  var $toc = $('#TOC');
+  var $content = $('.toc-content');
+  var headers = [];
+  var headerIdCounter = 0;
+  $content.find('h2, h3').each(function() {
+    var $h = $(this);
+    var level = this.tagName === 'H2' ? 2 : 3;
+    var id = $h.attr('id');
+    if (!id) { var $parent = $h.closest('.section[id]'); if ($parent.length) id = $parent.attr('id'); }
+    if (!id) { id = 'section-' + headerIdCounter; $h.attr('id', id); }
+    headerIdCounter++;
+    headers.push({ text: $h.text().trim(), id: id, level: level, el: $h });
+  });
+  if (!headers.length) return;
+  var h2n = 0, h3n = 0, html = '', inHeader = false, inSub = false, hIdx = 0;
+  for (var i = 0; i < headers.length; i++) {
+    var h = headers[i]; var label = '';
+    if (h.level === 2) {
+      h2n++; h3n = 0; label = h2n + '. ' + h.text;
+      if (inSub) { html += '</ul>'; inSub = false; }
+      if (inHeader) { html += '</ul>'; inHeader = false; }
+      html += '<ul id="tocify-header' + hIdx + '" class="tocify-header list-group">';
+      html += '<li class="tocify-item list-group-item" data-unique="' + h.id + '">' + label + '</li>';
+      inHeader = true; hIdx++;
+    } else if (h.level === 3) {
+      h3n++; label = h2n + '.' + h3n + ' ' + h.text;
+      if (!inSub) { html += '<ul class="tocify-subheader list-group" data-tag="3">'; inSub = true; }
+      html += '<li class="tocify-item list-group-item" data-unique="' + h.id + '">' + label + '</li>';
+    }
+  }
+  if (inSub) html += '</ul>'; if (inHeader) html += '</ul>';
+  $toc.html(html);
+  $toc.find('.list-group-item').first().addClass('active');
+  function showActiveSub() {
+    var $active = $toc.find('.list-group-item.active');
+    var $parentUl = $active.closest('.tocify-header');
+    var $subParent = $active.closest('.tocify-subheader');
+    var $targetSub = $parentUl.length ? $parentUl.find('.tocify-subheader') : $subParent;
+    $toc.find('.tocify-subheader').not($targetSub).slideUp(150);
+    if ($targetSub && $targetSub.length && $targetSub.is(':hidden')) $targetSub.slideDown(250);
+  }
+  showActiveSub();
+  var isScrolling = false;
+  $toc.on('click', '.list-group-item', function(e) {
+    e.preventDefault();
+    var targetId = $(this).data('unique');
+    var $target = $('[id="' + targetId + '"]').first();
+    if ($target.length) {
+      isScrolling = true;
+      $toc.find('.list-group-item').removeClass('active');
+      $(this).addClass('active'); showActiveSub();
+      $('html, body').stop().animate({ scrollTop: $target.offset().top - 60 }, 400, function() {
+        setTimeout(function() { isScrolling = false; }, 100);
+      });
+    }
+  });
+  var scrollTimer;
+  $(window).on('scroll', function() {
+    clearTimeout(scrollTimer);
+    scrollTimer = setTimeout(function() {
+      if (isScrolling) return;
+      var scrollTop = $(window).scrollTop() + 80;
+      var activeHeader = null;
+      for (var j = headers.length - 1; j >= 0; j--) {
+        var $el = headers[j].el;
+        var $section = $el.closest('.section[id]');
+        var top = ($section.length ? $section : $el).offset().top;
+        if (top <= scrollTop) { activeHeader = headers[j]; break; }
+      }
+      if (activeHeader) {
+        $toc.find('.list-group-item').removeClass('active');
+        $toc.find('.list-group-item[data-unique="' + activeHeader.id + '"]').addClass('active');
+        showActiveSub();
+      }
+    }, 50);
+  });
+});
+</script>
+
+</body>
+</html>
